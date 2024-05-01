@@ -33,8 +33,8 @@ def parse(htmlFromURL):
     urls = []
     for foundUrl in bs.findAll('a'):
         href = foundUrl.get('href')
-        url = urllib.parse.urljoin("https://www.cpp.edu/sci/computer-science/", href)
-        if url.startswith("https://www.cpp.edu/sci/computer-science/"):
+        url = urllib.parse.urljoin("https://www.cpp.edu/engineering/ce/", href)
+        if url.startswith("https://www.cpp.edu/engineering/ce/"):
             urls.append(url)
 
     return urls
@@ -73,7 +73,7 @@ def crawlerThread(frontier):
                 frontier.addURL(url)
 
 
-startURL = 'https://www.cpp.edu/sci/computer-science/'
+startURL = 'https://www.cpp.edu/engineering/ce/index.shtml'
 
 frontier = Frontier()
 frontier.addURL(startURL)
