@@ -1,3 +1,4 @@
+import re
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -29,6 +30,15 @@ def parse(html, base_url):
             website_url = urllib.parse.urljoin(base_url, website_link['href'])
             professor_info.append({'name': name, 'website_url': website_url})
     return professor_info
+
+def strip_text(text: str) -> str:
+    # replace whitespace \n etc with space
+    text = re.sub(r'\s+', ' ', text)
+    # replace multiple spaces with single space
+    text = re.sub(r' {2,}', ' ', text)
+    text = text.strip()
+    return text
+
         
 def crawl_professor_websites(professors_dict, collection):
     professor_pages = []
@@ -59,19 +69,20 @@ def crawl_professor_websites(professors_dict, collection):
                             # Section text is the title/text within each blurb
                             section_text = section.find('div', class_='section-text')
                             if section_text:
-                                website_text.append(section_text.get_text(strip=True))
+                                website_text.append(strip_text(section_text.get_text()))
                                 
                                 # Col div is the text within the section text
                                 col_div = section.find('div', class_='col')
                                 if col_div:
-                                    website_text.append(col_div.get_text(strip=True))
+                                    website_text.append(strip_text(col_div.get_text()))
                         
                         # accolades_aside is the right column of the page that contains the other important stuff
                         accolades_aside = soup.find('aside', class_='span3 fac rightcol')
                         if accolades_aside:
-                            accolades = accolades_aside.find('div', class_='accolades').get_text(strip=True)
-                            website_text.append(accolades)
-                        
+                            website_text.append(
+                                strip_text(accolades_aside.find('div', class_='accolades').get_text())
+                            )
+
                         # Add the professor's info to the list of professor pages
                         professor_pages.append({
                             'name': name,
