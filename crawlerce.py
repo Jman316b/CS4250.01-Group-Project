@@ -1,4 +1,6 @@
 import urllib.request
+import urllib.parse
+import urllib.error
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
