@@ -13,6 +13,7 @@ def retrieve_html(url):
         return None
 
 def parse(html, base_url):
+    # Parse the HTML to find the professors and their websites
     professor_info = []
     soup = BeautifulSoup(html, 'html.parser')
     for card in soup.find_all('div', class_='col-md directory-listing'):
@@ -35,6 +36,7 @@ def crawl_professor_websites(professors_dict, collection):
                 html_content = response.read()
                 soup = BeautifulSoup(html_content, 'html.parser')
 
+                # Span10 is the top section of the professor's website that contains the professor's info
                 span10 = soup.find('div', class_='span10')
                 if span10:
                     name = span10.find('h1').get_text(strip=True)
@@ -43,33 +45,32 @@ def crawl_professor_websites(professors_dict, collection):
                     phone_number = span10.find('div', class_='menu-left').find('p', class_='phoneicon').get_text(strip=True)
                     office_location = span10.find('div', class_='menu-right').find('p', class_='locationicon').get_text(strip=True)
                     office_hours = span10.find('div', class_='menu-right').find('p', class_='hoursicon').get_text(strip=True)
-
+                    
+                    # Main body of the professor's website that contains the research interests and other info
                     main_body = soup.find('div', id='main-body')
                     if main_body:
+                        
+                        # Blurb is each container within the middle portion of the page 
                         sections = main_body.find_all('div', class_='blurb')
                         website_text = []
                         for section in sections:
+                            # Section text is the title/text within each blurb
                             section_text = section.find('div', class_='section-text')
                             if section_text:
-
                                 website_text.append(section_text.get_text(strip=True))
                                 
-
+                                # Col div is the text within the section text
                                 col_div = section.find('div', class_='col')
                                 if col_div:
-
-                                    ul_elements = col_div.find_all('ul')
-                                    for ul in ul_elements:
-
-                                        li_elements = ul.find_all('li')
-                                        for li in li_elements:
-                                            website_text.append(li.get_text(strip=True))
+                                    website_text.append(col_div.get_text(strip=True))
                         
+                        # accolades_aside is the right column of the page that contains the other important stuff
                         accolades_aside = soup.find('aside', class_='span3 fac rightcol')
                         if accolades_aside:
-                            research_interest = accolades_aside.find('div', class_='accolades').get_text(strip=True)
-                            website_text.append(research_interest)
+                            accolades = accolades_aside.find('div', class_='accolades').get_text(strip=True)
+                            website_text.append(accolades)
                         
+                        # Add the professor's info to the list of professor pages
                         professor_pages.append({
                             'name': name,
                             'title_dept': title_dept,
@@ -85,6 +86,7 @@ def crawl_professor_websites(professors_dict, collection):
         except urllib.error.URLError as e:
             print(f"URLError: {e.reason} for URL: {website_url}")
 
+    # Store the professor pages in the database
     for professor_page in professor_pages:
         collection.insert_one(professor_page)
         print("Stored professor page for", professor_page['name'])
@@ -92,6 +94,7 @@ def crawl_professor_websites(professors_dict, collection):
 
 
 def crawler_thread(frontier, professors_dict, base_url):
+    # Crawl the website to find the professors and their websites
     while not frontier.done():
         url = frontier.next_url()
         html = retrieve_html(url)
@@ -126,18 +129,22 @@ class Frontier:
         self.visited_urls.clear()
 
 def main():
+    # Origin URL to find the professors and their websites
     start_url = "https://www.cpp.edu/engineering/ce/faculty.shtml"
     frontier = Frontier()
     frontier.add_url(start_url)
 
     professors_dict = {}
 
+    # Start the crawler that adds professors + their websites to the dictionary
     crawler_thread(frontier, professors_dict, start_url)
 
     client = MongoClient()
+    # Connect to database and collection to store the professor pages
     db = client['ce_crawler_db']
     collectionpages = db['professor_pages']
 
+    # Crawl each professor website from the dictionary to get all relevant info.
     crawl_professor_websites(professors_dict, collectionpages)
 
 if __name__ == "__main__":
