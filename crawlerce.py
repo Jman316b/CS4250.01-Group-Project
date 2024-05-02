@@ -95,8 +95,9 @@ def crawl_professor_websites(professors_dict, collection):
     
 
 
-def crawler_thread(frontier, professors_dict, base_url):
+def crawler_thread(frontier, base_url) -> dict:
     # Crawl the website to find the professors and their websites
+    professors_dict = {}
     while not frontier.done():
         url = frontier.next_url()
         html = retrieve_html(url)
@@ -107,6 +108,7 @@ def crawler_thread(frontier, professors_dict, base_url):
                 website_url = info['website_url']
                 if website_url:
                     professors_dict[name] = website_url
+    return professors_dict
             
 
 class Frontier:
@@ -136,10 +138,8 @@ def main():
     frontier = Frontier()
     frontier.add_url(start_url)
 
-    professors_dict = {}
-
     # Start the crawler that adds professors + their websites to the dictionary
-    crawler_thread(frontier, professors_dict, start_url)
+    professors_dict = crawler_thread(frontier, start_url)
 
     client = MongoClient()
     # Connect to database and collection to store the professor pages
