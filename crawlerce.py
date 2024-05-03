@@ -39,6 +39,21 @@ def strip_text(text: str) -> str:
     text = text.strip()
     return text
 
+def find_index_terms(texts: list[str]):
+    # find terms and counts
+    doc_terms: dict[str, int] = {}
+
+    for text in texts:
+        for word in text.split():
+            doc_terms[word.lower()] = doc_terms.get(word.lower(), 0) + 1
+
+    # create a list of objects to store in db. [{"term", "count"}]
+    terms = [
+        {'term': term, 'count': doc_terms[term]}
+        for term in doc_terms
+    ]
+    return terms
+
         
 def crawl_professor_websites(professors_dict, collection):
     professor_pages = []
@@ -83,6 +98,10 @@ def crawl_professor_websites(professors_dict, collection):
                                 strip_text(accolades_aside.find('div', class_='accolades').get_text())
                             )
 
+                        # TODO: do text transformation on website text here (stopping, stemming, remove punctuation etc)
+
+                        terms = find_index_terms(website_text)
+
                         # Add the professor's info to the list of professor pages
                         professor_pages.append({
                             'name': name,
@@ -92,7 +111,8 @@ def crawl_professor_websites(professors_dict, collection):
                             'phone_number': phone_number,
                             'office_location': office_location,
                             'office_hours': office_hours,
-                            'website_text': website_text
+                            'website_text': website_text,
+                            'terms': terms
                         })
         except urllib.error.HTTPError as e:
             print(f"HTTPError: {e.code} - {e.reason} for URL: {website_url}")
