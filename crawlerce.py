@@ -74,7 +74,7 @@ def crawler_thread(frontier, base_url) -> dict:
 
 def crawl_professor_websites(professors_dict, collection):
     professor_pages = []
-    all_term_counts = defaultdict(int)
+    term_page_counts = defaultdict(int)
     for name, website_url in professors_dict.items():
         try:
             with urllib.request.urlopen(website_url) as response:
@@ -121,7 +121,7 @@ def crawl_professor_websites(professors_dict, collection):
                         terms = find_index_terms(website_text)
                         # update global counts for each term
                         for term in terms:
-                            all_term_counts[term['term']] += term['count']
+                            term_page_counts[term['term']] += 1
                         
                         # Add the professor's info to the list of professor pages
                         professor_pages.append({
@@ -140,17 +140,18 @@ def crawl_professor_websites(professors_dict, collection):
         except urllib.error.URLError as e:
             print(f"URLError: {e.reason} for URL: {website_url}")
     
-    # Store the professor pages in the database
+    # compute tf-idf values
     for page in professor_pages:
         page_terms = page['terms']
         term_counts_sum = sum([term['count'] for term in terms])
         # compute tf-idf for each term in the doc
         for term_entry in page_terms:
             tf = term_entry['count'] / term_counts_sum
-            df = all_term_counts[term_entry['term']]
+            df = term_page_counts[term_entry['term']]
             idf = log(len(professor_pages) / df, 10)
             term_entry['tfidf'] = tf * idf
     
+    # Store the professor pages in the database
     for professor_page in professor_pages:
         collection.insert_one(professor_page)
         print("Stored professor page for", professor_page['name'])
