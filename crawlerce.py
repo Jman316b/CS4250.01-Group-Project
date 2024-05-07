@@ -2,6 +2,9 @@ import re
 import urllib.request
 import urllib.parse
 import urllib.error
+from collections import defaultdict
+from math import log
+
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 
@@ -39,15 +42,45 @@ def strip_text(text: str) -> str:
     text = text.strip()
     return text
 
-        
+def find_index_terms(texts: list[str]):
+    # find terms and counts
+    doc_terms: dict[str, int] = {}
+    
+    for text in texts:
+        for word in text.split():
+            doc_terms[word.lower()] = doc_terms.get(word.lower(), 0) + 1
+    
+    # create a list of objects to store in db. [{"term", "count"}]
+    terms = [
+        {'term': term, 'count': doc_terms[term]}
+        for term in doc_terms
+    ]
+    return terms
+
+def crawler_thread(frontier, base_url) -> dict:
+    # Crawl the website to find the professors and their websites
+    professors_dict = {}
+    while not frontier.done():
+        url = frontier.next_url()
+        html = retrieve_html(url)
+        if html:
+            professor_info = parse(html, base_url)
+            for info in professor_info:
+                name = info['name']
+                website_url = info['website_url']
+                if website_url:
+                    professors_dict[name] = website_url
+    return professors_dict
+
 def crawl_professor_websites(professors_dict, collection):
     professor_pages = []
+    term_page_counts = defaultdict(int)
     for name, website_url in professors_dict.items():
         try:
             with urllib.request.urlopen(website_url) as response:
                 html_content = response.read()
                 soup = BeautifulSoup(html_content, 'html.parser')
-
+                
                 # Span10 is the top section of the professor's website that contains the professor's info
                 span10 = soup.find('div', class_='span10')
                 if span10:
@@ -82,7 +115,14 @@ def crawl_professor_websites(professors_dict, collection):
                             website_text.append(
                                 strip_text(accolades_aside.find('div', class_='accolades').get_text())
                             )
-
+                        
+                        # TODO: do text transformation on website text here (stopping, stemming, remove punctuation etc)
+                        
+                        terms = find_index_terms(website_text)
+                        # update global counts for each term
+                        for term in terms:
+                            term_page_counts[term['term']] += 1
+                        
                         # Add the professor's info to the list of professor pages
                         professor_pages.append({
                             'name': name,
@@ -92,73 +132,70 @@ def crawl_professor_websites(professors_dict, collection):
                             'phone_number': phone_number,
                             'office_location': office_location,
                             'office_hours': office_hours,
-                            'website_text': website_text
+                            'website_text': website_text,
+                            'terms': terms
                         })
         except urllib.error.HTTPError as e:
             print(f"HTTPError: {e.code} - {e.reason} for URL: {website_url}")
         except urllib.error.URLError as e:
             print(f"URLError: {e.reason} for URL: {website_url}")
-
+    
+    # compute tf-idf values
+    for page in professor_pages:
+        page_terms = page['terms']
+        term_counts_sum = sum([term['count'] for term in terms])
+        # compute tf-idf for each term in the doc
+        for term_entry in page_terms:
+            tf = term_entry['count'] / term_counts_sum
+            df = term_page_counts[term_entry['term']]
+            idf = log(len(professor_pages) / df, 10)
+            term_entry['tfidf'] = tf * idf
+    
     # Store the professor pages in the database
     for professor_page in professor_pages:
         collection.insert_one(professor_page)
         print("Stored professor page for", professor_page['name'])
-    
 
-
-def crawler_thread(frontier, base_url) -> dict:
-    # Crawl the website to find the professors and their websites
-    professors_dict = {}
-    while not frontier.done():
-        url = frontier.next_url()
-        html = retrieve_html(url)
-        if html:
-            professor_info = parse(html, base_url)
-            for info in professor_info:
-                name = info['name']
-                website_url = info['website_url']
-                if website_url:
-                    professors_dict[name] = website_url
-    return professors_dict
-            
 
 class Frontier:
     def __init__(self):
         self.urls = []
         self.visited_urls = set()
-
+    
     def add_url(self, url):
         if url not in self.visited_urls:
             self.urls.append(url)
-
+    
     def next_url(self):
         url = self.urls.pop(0)
         self.visited_urls.add(url)
         return url
-
+    
     def done(self):
         return len(self.urls) == 0
-
+    
     def clear(self):
         self.urls.clear()
         self.visited_urls.clear()
+
 
 def main():
     # Origin URL to find the professors and their websites
     start_url = "https://www.cpp.edu/engineering/ce/faculty.shtml"
     frontier = Frontier()
     frontier.add_url(start_url)
-
+    
     # Start the crawler that adds professors + their websites to the dictionary
     professors_dict = crawler_thread(frontier, start_url)
-
+    
     client = MongoClient()
     # Connect to database and collection to store the professor pages
     db = client['ce_crawler_db']
-    collectionpages = db['professor_pages']
-
+    collection_pages = db['professor_pages']
+    
     # Crawl each professor website from the dictionary to get all relevant info.
-    crawl_professor_websites(professors_dict, collectionpages)
+    crawl_professor_websites(professors_dict, collection_pages)
+
 
 if __name__ == "__main__":
     main()
