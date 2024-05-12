@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'Search_Engine_Ui.ui'
+# Form implementation generated from reading ui file 'SearchEngineUi.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(1387, 791)
+        MainWindow.resize(1374, 791)
         MainWindow.setMaximumSize(QtCore.QSize(16777215, 16777215))
         MainWindow.setStyleSheet("background-color: rgb(0, 85, 0);")
         self.centralwidget = QtWidgets.QWidget(MainWindow)
@@ -89,12 +89,85 @@ class Ui_MainWindow(object):
         self.searchResult.setObjectName("searchResult")
         self.verticalLayout_2.addWidget(self.searchResult)
         self.verticalLayout.addWidget(self.seachBoxW)
+        self.widget = QtWidgets.QWidget(self.centralwidget)
+        self.widget.setMaximumSize(QtCore.QSize(16777215, 100))
+        self.widget.setObjectName("widget")
+        self.horizontalLayout_3 = QtWidgets.QHBoxLayout(self.widget)
+        self.horizontalLayout_3.setContentsMargins(500, 0, 500, 0)
+        self.horizontalLayout_3.setObjectName("horizontalLayout_3")
+        self.frame = QtWidgets.QFrame(self.widget)
+        self.frame.setMaximumSize(QtCore.QSize(200, 60))
+        self.frame.setFrameShape(QtWidgets.QFrame.StyledPanel)
+        self.frame.setFrameShadow(QtWidgets.QFrame.Raised)
+        self.frame.setObjectName("frame")
+        self.horizontalLayout_4 = QtWidgets.QHBoxLayout(self.frame)
+        self.horizontalLayout_4.setContentsMargins(-1, 0, -1, 0)
+        self.horizontalLayout_4.setObjectName("horizontalLayout_4")
+        self.btn1 = QtWidgets.QPushButton(self.frame)
+        self.btn1.setMaximumSize(QtCore.QSize(30, 30))
+        self.btn1.setLayoutDirection(QtCore.Qt.LeftToRight)
+        self.btn1.setStyleSheet("font-size: 18pt;\n"
+"border-style: solid;\n"
+"border-width: 1px;\n"
+"border-color: black;\n"
+"border-radius: 5px;\n"
+"background-color: rgb(255, 255, 255);\n"
+"color: rgb(0, 85, 0);")
+        self.btn1.setObjectName("btn1")
+        self.horizontalLayout_4.addWidget(self.btn1)
+        self.btn2 = QtWidgets.QPushButton(self.frame)
+        self.btn2.setMaximumSize(QtCore.QSize(30, 30))
+        self.btn2.setStyleSheet("font-size: 18pt;\n"
+"border-style: solid;\n"
+"border-width: 1px;\n"
+"border-color: black;\n"
+"border-radius: 5px;\n"
+"background-color: rgb(255, 255, 255);\n"
+"color: rgb(0, 85, 0);")
+        self.btn2.setObjectName("btn2")
+        self.horizontalLayout_4.addWidget(self.btn2)
+        self.btn3 = QtWidgets.QPushButton(self.frame)
+        self.btn3.setMaximumSize(QtCore.QSize(30, 30))
+        self.btn3.setStyleSheet("font-size: 18pt;\n"
+"border-style: solid;\n"
+"border-width: 1px;\n"
+"border-color: black;\n"
+"border-radius: 5px;\n"
+"background-color: rgb(255, 255, 255);\n"
+"color: rgb(0, 85, 0);")
+        self.btn3.setObjectName("btn3")
+        self.horizontalLayout_4.addWidget(self.btn3)
+        self.btn4 = QtWidgets.QPushButton(self.frame)
+        self.btn4.setMaximumSize(QtCore.QSize(30, 30))
+        self.btn4.setStyleSheet("font-size: 18pt;\n"
+"border-style: solid;\n"
+"border-width: 1px;\n"
+"border-color: black;\n"
+"border-radius: 5px;\n"
+"background-color: rgb(255, 255, 255);\n"
+"color: rgb(0, 85, 0);")
+        self.btn4.setObjectName("btn4")
+        self.horizontalLayout_4.addWidget(self.btn4)
+        self.btn5 = QtWidgets.QPushButton(self.frame)
+        self.btn5.setMaximumSize(QtCore.QSize(30, 30))
+        self.btn5.setStyleSheet("font-size: 18pt;\n"
+"border-style: solid;\n"
+"border-width: 1px;\n"
+"border-color: black;\n"
+"border-radius: 5px;\n"
+"background-color: rgb(255, 255, 255);\n"
+"color: rgb(0, 85, 0);")
+        self.btn5.setObjectName("btn5")
+        self.horizontalLayout_4.addWidget(self.btn5)
+        self.horizontalLayout_3.addWidget(self.frame)
+        self.verticalLayout.addWidget(self.widget)
         self.buttonW = QtWidgets.QWidget(self.centralwidget)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Minimum)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.buttonW.sizePolicy().hasHeightForWidth())
         self.buttonW.setSizePolicy(sizePolicy)
+        self.buttonW.setMaximumSize(QtCore.QSize(16777215, 100))
         self.buttonW.setObjectName("buttonW")
         self.horizontalLayout = QtWidgets.QHBoxLayout(self.buttonW)
         self.horizontalLayout.setObjectName("horizontalLayout")
@@ -109,12 +182,15 @@ class Ui_MainWindow(object):
         font = QtGui.QFont()
         font.setFamily("georgia")
         font.setPointSize(28)
+        font.setBold(True)
+        font.setItalic(True)
+        font.setWeight(75)
         self.searchBtn.setFont(font)
         self.searchBtn.setStyleSheet("font-family: georgia;\n"
 "font-size: 28pt;\n"
 "font-style: italic;\n"
-"border-style: solid;\n"
 "font-weight: bold;\n"
+"border-style: solid;\n"
 "border-width: 2px;\n"
 "border-color: black;\n"
 "border-radius: 10px;\n"
@@ -132,6 +208,11 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.header.setText(_translate("MainWindow", "CPP Civil Engineering Research Search Engine"))
+        self.btn1.setText(_translate("MainWindow", "1"))
+        self.btn2.setText(_translate("MainWindow", "2"))
+        self.btn3.setText(_translate("MainWindow", "3"))
+        self.btn4.setText(_translate("MainWindow", "4"))
+        self.btn5.setText(_translate("MainWindow", "5"))
         self.searchBtn.setText(_translate("MainWindow", "Search"))
 
 
