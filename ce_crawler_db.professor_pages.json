@@ -1,0 +1,541 @@
+[{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c662"
+  },
+  "name": "Yasser Salem",
+  "title_dept": "Professor & Department Chair, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/ysalem/",
+  "email": "ysalem@cpp.edu",
+  "phone_number": "909.869.4312",
+  "office_location": "Building 17, 2649",
+  "office_hours": "T TH | 3 PM - 4:00 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Ph.D. in Civil Engineering- University of California, Irvine, Irvine, California, 2006. M.S. in Civil Engineering- San Jose State University, San Jose, California, 1997. B.S. in Civil Engineering - Cairo University, Cairo, Egypt. 1994. S.E. Structural Engineer, California, P.E. Professional Civil Engineer, California, P.E. Professional Civil Engineer, Alaska, 12609 G.C. General Contractor, California,",
+    "Teaching",
+    "Statics Structure Analysis I Structure Analysis II Reinforced Concrete Design Steel Design Advanced Steel Design (Graduate) Earthquake Engineering (Graduate)",
+    "Selected Publications",
+    "Gad, G., Cho, J., Y Salem “Construction Engineering Technology Program Assessment Framework” Proceedings of the 2018 ASEE Annual Conference, Salt Lake City, Utah, June 2018. KC Felipe J. Perez, Salem, Brittany J. Myers, Cristian Aguilar ... “Seismic Vulnerability Assessment of a Non-Ductile Reinforced Concrete Shear Wall Building” 2018 ASEE Mid-Atlantic Spring Conference, April 2018. KC Felipe J. Perez, Salem, “Seismic Retrofit of Non-Ductile Reinforced Concrete Dual Frame Building using Fiber Composite Jacketing”, 2018 ASEE Mid-Atlantic Spring Conference, April 2018. Y Salem, L Wang, G Aziz “Assessment of Response Modification Factor of Open Steel Platform Structures Subjected to Seismic Loads” International Congress and Exhibition\" Sustainable Civil Infrastructures, July 2017. Anderson, KR., Y Salem, S. Shihadeh, P. Perez, B. Kampen, S. Jouhar, “Design of a Compost Waste Heat to Energy Solar Chimney Power Plant”, Journal of Civil Engineering Research, 6 (3), 47-54, 2016. Anderson, KR., Shafahi, M., Shihadeh, S., Perez, P., Kampen, B., McNamara, C., Y Salem... “Case Study of a Solar Tower/Compost Waste-to-Energy Test Facility submitted to 31 st ICSW 2016.” Journal of Solid Waste Technology & Management 42 (1), 2016. Y Salem, G Lomiento, J Khan “Assessment of Response Modification Factor of Reinforced Concrete Table Top Frames Structures Subjected to Seismic Loads” International Congress and Exhibition\", Sustainable Civil Infrastructures, July 2017. Y Salem, AB Lucas, GM Gad “Analytical Fragility Curves for Reinforced Concrete Dual System Subjected to Seismic Loads” International Congress and Exhibition\" Sustainable Civil Infrastructures, July 2017. KR Anderson, Y Salem, S Jouhar, S Bahrani, K Wang, A Sharbat, ... “Compost Waste Heat/Solar Tower Prototype Test Facility for a Sustainable Infrastructure”, The 2015 ASEE Annual Conference, June 2015. Salem, A. Nasr, “Development of Fragility Curves for Framed Structures Subjected to Pounding and Retrofitted with Damping Devices”, The 12th International Conference on Computational Structures Technology, Naples, Italy, September 2014. Salem, A. Nasr, “Development of Fragility Curves for Open Frame Steel Structures Supporting Platforms in Industrial Facilities”, The 12th International Conference on Computational Structures Technology in Naples, Italy, September 2014. Y Salem, A. Nasr, “Seismic Vulnerability Assessment of Steel Pipe Support Structures”, Tenth U.S. National Conference on Earthquake Engineering, Frontiers of Earthquake Engineering, Anchorage, Alaska, July 2014. Y Salem, A. Nasr, \" Evaluating response modification factors of Open-frames Steel Platforms”, Tenth U.S. National Conference on Earthquake Engineering, Frontiers of Earthquake Engineering, Anchorage, Alaska, July 2014. Salem, K. Sham, “Nonlinear Static Analysis of a Coker Support Structure under Seismic Loads”, 15th World Conference on Earthquake Engineering, Lisbon, Portugal, September, 2012. Salem, M. Khaut, “Seismic Vulnerability Of Steel Module Structure Supported on Adfreeze Piles”, 15th World Conference on Earthquake Engineering, Lisbon, Portugal, September 2012. Salem, K Sham “Nonlinear time-history analysis of modular structures isolated by sliding plates under seismic loads”, The 15th World Conference on Earthquake Engineering, Lisbon, Portugal, September 2012. Salem , Cheng –Jang Cheng, “Prediction of Slurried Adfreeze Pile Response to Vibratory Loads in Permafrost Soil” 8th International conference On Structural Dynamics, Leuven, Belgium, July, 2011.",
+    "Research Interest Dr. Salem research activities are tied to 20+ experience in the professional industry. He is very keen on involving his students in his research activities and publishing scholarly work in internationally reputable journals and conferences. His professional experience offered him a wide spectrum of ideas to explore, which benefits his students. Examples of research interests: Performance-based design for special structures, Vulnerability and Risk Assessment of Structures, Soils-Structure Interaction for seismic application, vibration testing and experimental modal analysis of structures and foundation system."
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c663"
+  },
+  "name": "Wen Cheng",
+  "title_dept": "Professor and Associate Chair, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/wcheng/",
+  "email": "wcheng@cpp.edu",
+  "phone_number": "909.869.2957",
+  "office_location": "Building 17, Room 2677",
+  "office_hours": "M | BY APPOINTMENTT TH | BY APPOINTMENT",
+  "website_text": [
+    "Education and Professional Registration",
+    "Degrees B.S. in Civil Engineering, Tongji University, 2000 M.S. in Roadway & Traffic Engineering, Tongji University, 2002 M.S. in Civil Engineering, University of Arizona, 2005 Ph.D. in Civil Engineering, Arizona State University, 2006 Professional Licenses T.E., California Professional Traffic Engineer, License No. 2536 P.E., Professional Engineer, California No. C72602 PTOE, Professional Traffic Operations Engineer, Certificate No. 2432",
+    "Teaching",
+    "Transportation Systems Design & Operation Design of Transportation Facilities Traffic Safety Analysis Advanced Computer Programming in Civil Engineering Multimodal Traffic Analysis Transportation Engineering Traffic Signal Design Highway Engineering Application of Machine Learning to Civil Engineering Infrastructure Economics Special Studies Senior Projects AutoCAD Application of Computer Vision to Transportation and Civil Engineeing",
+    "Selected Journal Publications (since 2017)",
+    "(* indicate the corresponding author, ^ indicate student authors) Y. Li, G. Gill^, W. Cheng*, M. Singh^, Y. Zhang, J. Kwong (2023). “Sensitivity Analysis of Bayesian Nonparametric Spatial Crash Frequency Models for Bicyclists”. Journal of Communications in Statistics - Simulation and Computation (Accepted for publication). Gill, G^., W. Cheng*, M. Singh^, Y. Li (2022). “Comparative Evaluation of Alternative Bayesian Semiparametric Spatial Crash Frequency Models”. Journal of Traffic and Transportation Engineering (Accepted for publication). Truong, L.^, E. Clay^, O. Mora, W. Cheng*, M. Singh^, X.Jia (2022). “Rotated Mask RCNN Detection for Parking Space Management System”, Journal of Transportation Research Record 2677 (1), 1564-1581 (DOI: 10.1177/03611981221105066 ) Singh, M.^, Y. Zhang, W. Cheng*, Y. Li, and E. Clay^ (2022). Exploration of Transit Station-Oriented Active Transportation Safety Using Bivariate Spatial Models with Different Covariate Inputs, Journal of safety research 83, 152-162. Singh, M.^, W. Cheng*, R. Gopalakrishnan^, Y. Li, M. Cao^ (2021). Exploration of the Contributing Factors to the Walking and Biking Travel Frequency using Multi-Level Joint Models with Endogeneity. Journal of Traffic and Transportation Engineering, http://kns.cnki.net/kcms/detail/61.1494.U.20211027.2059.002.html. Zhang, Y., G. Gill^, W. Cheng*, P. Reina, M. Singh^. (2021) “Exploring Influential Factors and Endogeneity of Traffic Flow of Different Lanes on Urban Freeways using Bayesian Multivariate Spatial Models”, Journal of Traffic and Transportation Engineering (http://kns.cnki.net/kcms/detail/61.1494.U.20211003.0950.002.html ) Cheng, W.*, M. Singh^, E. Clay^, J. Kwong, M. Cao,^ Y. Li, A. Truong (2021). “Exploring Temporal Interactions of Crash Counts in California Using Distinct Log-linear Contingency Table Models”, International Journal of Injury Control and Safety Promotion (DOI: 10.1080/17457300.2021.1928231 Link: https://doi.org/10.1080/17457300.2021.1928231 ). Truong, L.^, O. Mora, W. Cheng*, H. Tang^ and M. Singh^ (2021). “Deep Learning to Detect Road Distress from Unmanned Aerial System Imagery”, Journal of Transportation Research Record (Link: https://doi.org/10.1177/03611981211004973 ) M. Singh^, W. Cheng*, D. Samuelson, E. Clay^, H. Tang^, Li, Y. (2021). “Exploring Influence of Crash Type on Injury Severity in Crashes at Intersection”, Journal of Advances in Transportation Studies Vol. 54, p61-74, DOI: 10.53136/97912599405445. M. Singh^, W. Cheng*, D. Samuelson, E. Clay^, M. Cao^ (2021). “Development of Pedestrian-and Vehicle-Related Safety Performance Functions Using Bayesian Bivariate Hierarchical Models with Mode-Specific Covariates”, Journal of Safety Research 78, 180-188. Cheng, W.*, G. Gill^, F. Wen and J. Zhou (2020). “Bayesian Bivariate Semiparametric Spatial Models for Ozone and PM2.5 Emissions”, Journal of Environmental Modelling and Assessment 26 (2), 237-249, (DOI: 10.1007/s10666-020-09732-8. Link: https://rdcu.be/b7i5L) Cheng, W.*, G. Gill^, Y. Zhang, T. Vo, F. Wen, Y. Li (2019). “Exploring the Modeling and Site-Ranking Performance of Bayesian Spatiotemporal Crash Frequency Models with Mixture Components”. Journal of Accident Analysis and Prevention, 135, 135037. Cheng, W.*, G. Gill^, J. Zhou, J. Ensch, J. Kwong and X. Jia, (2019) “Alternative Multivariate Multimodal Crash Frequency Models”, Journal of Transportation Safety and Security, 1-25. Cheng, W.*, G. Gill^, M. Dasu, and X. Jia (2018). “An Empirical Evaluation of Multivariate Spatial Crash Prediction Models”, Journal of Accident Analysis and Prevention, 119, 290-306. Cheng, W.*, G. Gill^, T. Sakrani^, D. Ralls,^ X. Jia (2018). “Modeling the endogeneity of lane-mean speeds and lane-speed deviations using a Bayesian structural equations approach with spatial correlation”. Journal of Transportation Research Part A: Policy and Practice, 116, 220-231, (https://doi.org/10.1016/j.tra.2018.06.014) Cheng, W.*, G. Gill^, T. Vo.^, J. Zhou, and T. Sakrani^ (2018). “Use of Multivariate Dirichlet Process Mixture Spatial Model to Estimate Active Transportation-related Crash Counts”, Journal of Transportation Research Record, 0361198118782797. Gill, G.^, W. Cheng*, J. Zhou, T. Vo^, and X. Jia (2018). “Comprehensive Assessment of Temporal Treatments in Crash Prediction Models”, Journal of Transportation Research Record, 0361198118782763. Xie, M., W. Cheng*, G. Gill^, J. Zhou, X. Jia, S. Choi (2018). “Predicting Likelihood of Hit-and-run Crashes Using Real-time Loop Detector Data and Hierarchical Bayesian Binary Logit Model with Random Effects”, Journal of Traffic Injury and Prevention. Vol. 19, Iss.2, (10.1080/15389588.2017.1371302) Cheng, W.*, G. Gill^, J. Ensch, J. Kwong, and X. Jia (2018). “Multimodal Crash Frequency Modeling: Multivariate Space-Time Models with Alternate Spatiotemporal Interactions”, Accident Analysis and Prevention, 113, pp. 159-170. Cheng, W.*, Gill, G.^, Y. Zhang, Z. Cao (2018). “Bayesian Space-Time Crash Frequency Models with Mixture Components for Spatiotemporal Interaction”. Accident Analysis & Prevention, 112, pp. 84-93. (https://doi.org/10.1016/j.aap.2017.12.020) Lee, A.^, W. Lin, G. Gill^, and W. Cheng* (2018). “An Enhanced Empirical Bayesian Method for Identifying Road Hot Spots and Predicting Number of Crashes”. Journal of Transportation Safety and Security (Accepted for publication, https://doi.org/10.1080/19439962.2018.1450314) Cheng, W*., G. Gill^, S. Choi, X. Jia, J. Zhou, M. Xie (2018). “Comparative Evaluation of Temporal Correlation Treatment in Crash Frequency Modeling”, Journal of Transportmetrica A Transport Science, Volume 14, Issue 7, 615-633. Cheng, W.*, Gill, G.^ S., Dasu, R., Xie, M., Jia, X., & Zhou, J. (2017). Comparison of Multivariate Poisson lognormal spatial and temporal crash models to identify hot spots of intersections based on crash types. Accident Analysis & Prevention, 99, pp. 330-341. Cheng, W.*, X. Jiang, W. Lin, X. Wu, X. Jia, J. Zhou.(2017) “Ranking Cities for Safety Investigation by Potential for Safety Improvement”. Journal of Transportation Safety and Security, (DOI: 10.1080/19439962.2017.1279250). Gill, G.^, W. Cheng*, M. Xie, T. Vo^, X. Jia, J. Zhou. (2017) “Evaluating the Influence of Neighboring Structures on Spatial Crash Frequency Modeling and Site Ranking Performance”, Journal of Transportation Research Record 2659, pp. 117-126. (DOI: 10.3141/2659-13). Cheng, W*., G. Gill^, L. Loera^, X. Wang, J. Wang. (2017) “Evaluation of the Impact of Traffic Volume on Site Ranking”. Journal of Transportation Safety and Security, (DOI: 10.1080/19439962.2017.1321074). Gill, G^. W. Cheng*, J. Zhou, & V. Shin (2017), “Comparative Analysis of Cost-weighted Site Ranking Using Alternate Distance-based Neighboring Structures for Spatial Crash Frequency Modeling”, Journal of Transportation Safety and Security . (DOI: 10.1080/19439962.2017.1354239) Cheng, W.*, G. Gill^, T. Sakrani^, M. Dasu, J. Zhou (2017). “Predicting Motorcycle Crash Injury Severity using Weather Data and Alternative Bayesian Multivariate Crash Frequency Models”. Journal of Accident Analysis and Prevention, 108, pp. 172-180. Gill, G^. and W. Cheng* (2017). “Assessment of Alternative Bayesian Hierarchical Models for Estimating Gas Emissions”, Journal of Global Environment, Health and Safety, iMedPub Journals (Vol. 1, No. 2:8)",
+    "Funded Projects (Total Amount: $6,330,000.00)",
+    "PI: California Statewide Traffic Safety Ranking via Empirical Bayes Method, USDOT/National Highway Traffic Safety Administration, (2013~present, $2,501,634.00). Goal: Enhance accuracy of safety performance rankings of counties and incorporated cities in CA. PI (CPP Portion): National University Tranportation Center: Center for Understanding Future Travel Behavior and Demand, USDOT, (2023-2028, $2,500,000.00). Goal: Improving Mobility for People and Goods in the US. PI: Administration of the Dwight David Eisenhower Transportation Fellowship Program (DDETFP) Local Competition, FHWA (12/2022-8/2023, $50,000.00) Goal: Attract the nation's brightest minds to the field of transportation through the local administration of DDETFP program. Co-PI: Understanding Mobility-Related Challenges for AAPI Older Adults, CSUTC SB1 Program (1/2023-12/2023, $75,000.00). Goal: Improve the level of mobility for AAPI older adults. PI: Administration of the Dwight David Eisenhower Transportation Fellowship Program (DDETFP) Local Competition, FHWA (12/2021-8/2022, $50,000.00) Goal: Attract the nation's brightest minds to the field of transportation through the local administration of DDETFP program. Co-PI: Enhancing the Mobility of Senior Adults, CSUTC SB1 Program (10/2021-8/2022, $75,000.00). Goal: Improve the level of mobility for older adults for the preparation of the aging Californians. PI: Administration of the Dwight David Eisenhower Transportation Fellowship Program (DDETFP) Local Competition, FHWA (11/2020-8/2021, $50,000.00) Goal: Attract the nation's brightest minds to the field of transportation through the local administration of DDETFP program. PI: Promotion of Deep Learning and Artificial Intelligence in Campus Living Lab and Transportation Laboratory of Civil Engineering, CPP SPICE (7/2020-6/2021, $12,600.00). Goal: Enhance access to multi-user StreetLight Data which can be fed into deep learning and artificial intelligence for campus safety improvement. PI: Comprehensive Evaluation of Crowdsourcing Non-motorist Count Data, CSUTC SB1 Program (5/2020-4/2021, $75,000.00). Goal: Improve data collection accuracy for Non-motorist volume. PI: Development of Active Transportation Safety Performance Functions in California, Caltrans (4/2018~11/2020, $175,000.00). Goal: Enhance active transportation safety in California. Co-PI: Enhancement of Multimodal Traffic Safety in High Quality Transit Areas, CSUTC SB1 Program (5/2019-4/2020, $75,000.00). Goal: Improve multimodal transportation usage while enhancing safety of such modes. Co-PI: Promotion of Active Transportation in High Quality Transit Areas, CPP SIRG Program (6/2019-5/2020, $16,200.00). Goal: Improve active transportation mode usage while enhancing safety of such mode. Co-PI: 2018 National Summer Transportation Institute (NSTI) and National Flight Academy (NFA) initiative (6/2018~7/2018, $69277). Goal: Enhance the interests among current high school students in pursuing transportation careers in the future. Co-PI: CPP RSCA from Chancellor's Office funds A Pilot Study: Cal Poly Pomona Campus Transportation Plan (1/2018~11/2018, $5000). Goal: Investigate and evaluate various traffic circulation plan on campus. PI: sub-award to UC Davis- Santa Ana Mountains to eastern Peninsular Range Conservation Connectivity Infrastructure Planning Project for Interstate 15 and Closely Associated Roadways (3/2018~6/2019, $40,000.00). Goal: Identify best engineering alternatives for wild life connectivity across Interstate 15 in California. PI: STEM Online/Hybrid Course Design Proposal, PPOHA/MENTORES project grant, (6/2017~9/2017, $4,500.00). Goal: Develop online/hybrid course for traffic and highway safety. Co-PI: Advanced Research on the Built Environment and Collisions, Southern California Association of Governments (6/2017-10/2017, $50,000.00). Goal: Identify the collision hotspots by different transportation modes and the correlation of surrounding built environment with the different types of the hot spots in southern California PI: Investigation of Multimodal Crashes using Full Bayesian Multivariate Spatial-Temporal Models, UCCONNECT and Caltrans (6/2016~present, $75,000.00). Goal: Enhance students’ passion in doing transportation research. PI: UCCONNECT Summer Research Programs, UCCONNECT (6/2016~9/2016,$105,000.00). Goal: Enhance students’ passion in doing transportation research. PI: UCCONNECT Technology Transfer, Educational and Student Research Support Programs, UCCONNECT (2014~present, $150,000.00). Goal: Assist students in pursuing transportation profession and/or advanced degrees. Co-PI: Exploring the Relationship between Traffic Congestion and Traffic Safety, UCCONNECT (2014~2016, $20,000.00). Goal: Quantify the relationship between traffic crash severities and traffic flow characteristics. PI: Identification of systematic method to enhance pedestrian safety, City of Glendale, CA (2011-2012, $25,000.00). Goal: Enhance pedestrian traffic safety in Glendale, CA. PI: Enhancement of Student Learning, Roadway Safety, Traffic and Facility Planning Efficiency through Campus-Wide Multi-Modal Dynamic Traffic Simulation, CPP Kellogg Legacy Project Endowment (2014~present, $70,000.00). Goal: Enhance student learning and campus safety through the development of campus-wide traffic simulation. PI: Campus Circulation Safety Evaluation and Enhancement, The CSU Campus as A Living Lab Grant Program (2013-2014, $17,000.00). Goal: Enhance and evaluate campus circulation safety. PI: Incorporation of Greenhouse Gas Emission Reduction, Safety and Congestion Relief Considerations into Transportation Planning, First CPP SIRG Program (2012-2013, $13,000.00). Goal: Synchronize safety, congestion relief and gas emission reduction.",
+    "Research Interests Deep Learning, Data Mining and Statistical Modeling Application of Computer Vision to Civil Engineering Traffic Safety and Operation Transportation-related Environment Public Health"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c664"
+  },
+  "name": "Lisa Y. Wang",
+  "title_dept": "Professor, Structural and Earthquake Engineering, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/ylwang/",
+  "email": "ylwang@cpp.edu",
+  "phone_number": "909.869.4641",
+  "office_location": "Building 17, Room 2655",
+  "office_hours": "M W | 3 - 4:30 PMT | 3-4 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Ph.D, Structural and Earthquake Engineering, University of California, Irvine M.S. Geotechnical Engineering, China Academy of Railway Sciences, Beijing, China B.S. Civil and Architectural Engineering, Southwest Jiaotong University, China P.E. Registered Professional Civil Engineer, California",
+    "Selected Publications and Presentations",
+    "“Pushover Seismic Analysis and Structural Performance of Asymmetric Multistory Building,” L. Y. Wang, M. K. Sham, ICCEE 2019 (2019 4th International Conference in Civil and Environmental Engineering), May 27-29, Xian, China “Shear Behavior of Panel Zones in Steel Beam-to-Column Connections with Unequal Depth of Outer Annular Stiffener,” B. Mou, X. Li, Y. Bai, L. Wang, ASCE Journal of Structural Engineering, Volume 145 Issue 2, February 2019. “Assessment of Response Modification Factor of Open Steel Platform Structures Subjected to Seismic Loads,” Yasser S.Salem, Lisa Wang and Germaine Aziz, GeoMEast International Conference, July15-19, 2017, Sharm El-Sheik, Egypt “Seismic Analysis and Evaluation of Moment Frame Systems Renovated with Supplemental Damping,” L.Y. Wang and Kenjiro Iwamoto, ASCE Civil Engineering Conference in the Asia Region – CECAR 7, Waikiki, Hawaii, August 30-September 2016 “Combination of Shake Table Experiments and Computer Simulation to Enhance Structural Engineering Curriculum in Earthquake Engineering,” L.Y. Wang, ASEE Zone V conference, Long Beach, April 24-26, 2014",
+    "Research Interests Nonlinear seismic response of flexible buildings and large-span bridges Liquid-Structure Interaction Seismic response of steel frame buildings to near-source ground motions Soil-Structure Interaction Effects on seismic response of structures"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c665"
+  },
+  "name": "Lourdes V Abellera",
+  "title_dept": "Associate Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/lvabellera/",
+  "email": "lvabellera@cpp.edu",
+  "phone_number": "909.869.4863",
+  "office_location": "Building 17-2688",
+  "office_hours": "M | 10:15 AM - 11:45 AMT TH | 4 PM - 5:15 PM",
+  "website_text": [
+    "Education",
+    "PhD, Civil Engineering, UCLA, 2005MS, Civil Engineering, UCLA, 2001MS, Remote Sensing, University of the Philippines, Diliman, 1997BS, Geodetic Engineering, University of the Philippines, Diliman, 1986",
+    "Teaching",
+    "Surveying EngineeringSurveying Engineering LaboratoryGIS Applications in Engineering and Remote SensingGIS Applications in Engineering and Remote Sensing LaboratoryEngineering GeomaticsSatellite Surveying in EngineeringGIS Applications in Civil Engineering (graduate course)",
+    "Selected Publications and Presentations",
+    "Hao, L., Panangadan, A., and Abellera, L.V., “Understanding Public Sentiment toward I-710 Corridor Project from Social Media Based on Natural Language Processing,” IEEE 19th International Conference on Intelligent Transportation Systems (ITSC 2016), November 1-4, 2016 (Rio de Janeiro, Brazil) Tolliver, F. and Abellera, L.V., “Assessing the Quality of Crowdsourced Water Data with GIS,” 9th Annual Science Research Symposium, 2014 (Pomona, California, U.S.A.) Guilas, P.A., Abellera, L.V., and Moya, T.B., “Use of the Tasseled Cap Transformation in Identifying Impervious Surfaces in the San Cristobal River Basin,” 4th ASCE-EWRI International Perspective on Water Resources & the Environment, 2011(Singapore).",
+    "Research Interests Geographic information systems (GIS)Remote sensingGeospatial crowdsourcingWater resources modelingMachine learning techniques for sustainability"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c666"
+  },
+  "name": "Dragos Andrei",
+  "title_dept": "Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/dandrei/",
+  "email": "dandrei@cpp.edu",
+  "phone_number": "909.869.2487",
+  "office_location": "2346",
+  "office_hours": "M T W TH | SEE MY BLOG FOR CURRENT OFFICE HOURS",
+  "website_text": [
+    "Education",
+    "Ph.D., Arizona State University M.S., University of Maryland Engineer Diploma, Technical University of Iasi, Romania",
+    "Licenses and Certifications",
+    "Registered Civil Engineer, California Professional Engineer, Texas (inactive) LEED Green Associate Envision Sustainability Professional",
+    "Teaching",
+    "Civil Engineering Materials Geotechnical Engineering Sustainable Buildlings and Infrastructure Pavement Design and Construction Applied Probability Concepts",
+    "Publications",
+    "D. Andrei, M. Arabestani “ASTM D6433 Pavement Condition Index Variability Study,” 15th Romanian National Congress of Roads and Bridges, Iasi, Romania, September 2018. D. Andrei “Prequalification Criteria for Pavement Inspectors,” 9th International Conference on Managing Pavement Assets, Alexandria, Virginia, June 2015. Faster, T. Thomas, T. Moore, D. Matthews, T. Chastian, V. Gallivan, S. Cross, T. Humphrey, D. Andrei, B. Barnhart, J. Strawbridge, K. Stokes, J. Welinski “Basic Asphalt Recycling Manual,” 2nd Edition, 2014, Asphalt Recycling & Reclaiming Association, U.S. Department of Transportation, Federal Highway Administration. D. Andrei “Design Alternative Comparison System for Pavements,” 12th ISAP Conference Proceedings, International Society for Asphalt Pavements, Raleigh, North Carolina, June 2014.Andrei “How “green” is your pavement network?,” APWA Reporter, American Public Works Association, Vol. 80, No. 8, pp. 104-109, August, 2013 D. Andrei, M.W. Witczak and W.N. Houston “Resilient Modulus Predictive Model for Unbound Pavement Materials,” Contemporary Topics in Ground Modification, Problem Soils, and Geo-Support: pp. 401-408. ASCE Conference Proceedings, GeoFlorida 2009 Zapata C., Andrei D., Witczak M.W. and Houston W.N. (2007), “Incorporation of Environmental Effects in Pavement Design,” International Journal of Road Materials and Pavement Design, Volume 8/4, pp. 667-693 Andrei D. (2004), “Development of a CBR-Based Stress-Dependent Resilient Modulus Model,” Proceedings of the International Conference on Performance-Based Engineering, Iasi, Romania, August 15-18. Andrei D., Witczak M.W., Schwartz C.W. and Uzan J. (2004), “Harmonized Resilient Modulus Test Method for Unbound Pavement Materials,” Journal of the Transportation Research Board No. 1874, TRB, National research Council, Washington, D.C., pp. 29-37",
+    "Research Interests I am interested in sustainability, infrastructure management, and construction materials. You can find more info about myself and my teaching and research activities on my blog: My Blog Pavement Recycling and Reclaiming Center Linkedin Google Scholar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c667"
+  },
+  "name": "Hovel Y. Babikian",
+  "title_dept": "Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/hybabikian/",
+  "email": "hybabikian@cpp.edu",
+  "phone_number": "909.869.4451",
+  "office_location": "Building 17 Room 2683",
+  "office_hours": "T W TH | 9 AM - 11:30 AM",
+  "website_text": [
+    "Education and Professional Registration",
+    "M.S. Civil Engineering, California Institute of Technology B.S. Civil Engineering, California State Polytechnic University, Pomona Licensed California Civil Engineer Licensed California Building Contractor Licensed California Real Estate Broker",
+    "Teaching",
+    "Computer Aided Design Inspection Heavy Civil Equipment Estimating Project Management Contracts and Construction Law",
+    "Specialties",
+    "Design Build Development Land Development Manufacturing and Warehousing Pre-Engineered Building Systems Mechanical/Electrical/Plumbing Design Sustainable Construction and Materials",
+    "Publications Computer Aided Design Numerical Methods Inspection Practices Heavy Civil Equipment Microsoft Applications"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c668"
+  },
+  "name": "Siddharth Banerjee",
+  "title_dept": "Assistant Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/siddharthb/",
+  "email": "siddharthb@cpp.edu",
+  "phone_number": "909.869.4863",
+  "office_location": "17 - 2684",
+  "office_hours": "M W | 1 PM - 3 PM",
+  "website_text": [
+    "About Me",
+    "Ph.D. in Construction Engineering with a minor in Statistics; aiming to use data analytics to generate insights and improve construction workflow processes. Proficient in R, Python, Tableau, SQL, and MS Excel for data analysis and reporting. Top five Clifton Strengths (in order): Learner, Harmony, Input, Arranger, Adaptability Teaching My teaching philosophy revolves around lightbulb moments where students find themselves enlightened with new information. I provide ample examples to not just simplify the concept but also to foster lifelong learning. I also use various active learning strategies to bolster in-class learning and augment it with a hands-on approach which fits in with Cal Poly Pomona's 'learn by doing' approach. As an instructor, I have taught courses in construction engineering and management to both undergraduate and graduate students. The list of courses I taught can be found under the 'Courses Taught' section of my webpage. Research My research interests and experience primarily lie in using human-computer interactions to improve construction workflow processes, ultimately leading to organizational resilience and sustainable projects. My research experiences broadly relate to enhancing communication among project teams using artificial intelligence and project risk management. I aim to bring advancements in the application of digital construction techniques for achieving organizational resilience and sustainability through automation for the advancement of the construction industry.",
+    "Courses Taught",
+    "At Cal Poly Pomona Spring 2024 CE 3140 Construction Estimating CE 3121 Building Systems Fall 2023 CE 3140 Construction Estimating CE 4140 Construction Project Management and Accounting At Bradley University Spring 2023 CON 452: Green Construction and LEED CON 529: Advanced Construction Contracts Fall 2022 CON 270: Construction Materials and Methods CON 540: Project and Company Management At North Carolina State University (As Instructor-of-Record) CE 365 Construction Equipment and Methods (Spring 2022)",
+    "Education Ph.D., Civil Engineering (Construction Engineering), North Carolina State University, USA, 2022. Graduate Minor in Statistics, North Carolina State University M.S., Construction Management, Del. E. Webb School of Construction, Arizona State University, USA, 2011. B.E., Civil Engineering, Osmania University, Hyderabad, India, 2006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c669"
+  },
+  "name": "Jin Sung Cho",
+  "title_dept": "Associate Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/jinsungcho/",
+  "email": "jinsungcho@cpp.edu",
+  "phone_number": "909.869.4613",
+  "office_location": "Bldg 17- 2669",
+  "office_hours": "T TH | 04:00 PM - 05:00 PMW | 11:30 AM - 01:30 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Ph.D. Construction Management, Ira A. Fulton Schools of Engineering, Arizona State University, Tempe, AZ M.S. Civil and Environmental Engineering, College of Engineering, Carnegie Mellon University, Pittsburgh, PA B.S. Civil Engineering, Department of Civil Engineering, College of Engineering, Hongik University, Seoul, Korea",
+    "Teaching",
+    "Construction Engineering (Undergraduate) Construction Engineering Laboratory (Undergraduate) Construction Estimating (Undergraduate) Construction Scheduling (Undergraduate) Construction Project Management and Accounting (Undergraduate) Geotechnical Engineering (Undergraduate) Virtual Design Construction and Management; BIM (Undergraduate) Virtual Design Construction and Management (BIM) Laboratory (Undergraduate) Construction Productivity (Graduate) Underground Construction and Trenchless Technology (Graduate) Temporary Construction Structure (Undergraduate and Graduate)",
+    "Selected Publications",
+    "Vo, Davis., Chung, Lonnie, Cho, Jinsung., and Salem, Yasser., “ Permafrost Tunnels: A Finite Element Analysis of Seismic Impacts and Permafrost Thaw”, WTC (World Tunneling Conference and Exhibition) 2019, Tunnels and Underground Cities: Engineering and Innovation meet Archaeology, Architecture and Art, Naples, Italy, May 3 – 9, 2019. Yasser S. Salem., Aren Azizian, and Jinsung Cho., “Risk Assessment of Open Frame Platform Structures Using Analytical Fragility Curves.” GeoMEast 2018, International Congress and Exhibition,\"Sustainable Civil Infrastructures: Structural Integrity\" Cairo, Egypt, November 24 to 28, 2018 Yasser S. Salem, Tiffany Yoo, and Jinsung Cho., “Seismic Risk Assessment of Pipe Rack Structures Using Analytical Fragility Curves.” GeoMEast 2018, International Congress and Exhibition,\"Sustainable Civil Infrastructures: Structural Integrity\" Cairo, Egypt, November 24 to 28, 2018 Sreeganesh R. Yerri, Kalyan R. Piratla, John C. Matthews, Sepideh Yazdekhasti, Jinsung Cho, and Dan Koo, “EMPIRICAL ANALYSIS OF LARGE DIAMETER WATER MAIN BREAK CONSEQUENCES.” Journal of Resources, Conservation and Recycling, Elsevier, v 123, p 242-248, 2017; Publisher: Elsevier B.V. Gad, Ghada., Cho, Jinsung, and Salem, Yasser., “Construction Engineering Technology Program Assessment Framework.” ASEE (American Society of Engineering Educations), 2018 ASEE Annual Conference and Exposition, Salt Lake City, UT, June 24 – 27, 2018. Cho, Jinsung, Lomiento, Giuseppe., Gad, Ghada., and Terestegen, Katrin., “Architecture, Engineering, and Construction Interdisciplinary Senior Interdisciplinary Project Educational Model.” ASEE (American Society of Engineering Educations), 2018 ASEE Annual Conference and Exposition, Salt Lake City, UT, June 24 – 27, 2018. Gad, Ghada, Cho, Jinsung, and Lomiento, Giuseppe, “Fostering Disciplines’ Understanding between Design and Construction Engineering Students through a Design-Build Senior Project.” ASEE (American Society of Engineering Educations), 2017 ASEE Annual Conference and Exposition, Columbus, OH, June 25 – 28, 2017. Jonghoon Kim, Robert Lyons, Jinsung Cho, and Dan D. Koo., “Case Study: Challenges to install vertically curved HDPE casing pipes for 36-inches large diameter water mains crossing highway.” ASCE (American Society of Civil Engineers) Pipelines 2017 Conference in , Scottsdale, Arizona, Aug 6 – 9, 2017 Jonghoon Kim, Jin-Sung Cho, Andrew Baird, Samuel T. Ariaratnam, Wai K.O. Chong,” Application of 3D Engineering Models into Civil Integrated Management (CIM): A Case Study of Traffic Interchange Improvement.” International Conference on Sustainable Infrastructure (ICSI) 2016,17-19, 2016, Beijing, P.R. China Cho, Jinsung., Lueke, S. Jason., Ariaratnam, T. Samuel. “Numerical Analysis of Soil Behavior under Submerged Soil Behavior in Pipeline Installations Crossing Rivers.” ASCE (American Society of Civil Engineers) Pipelines 2014 Conference in Portland, Oregon, August 3 – 6, 2014.",
+    "Research Interest Building Information Modeling (BIM) Construction Information Techniques Automatic Data Processing and Interpretation by Using 2D/3D Imaging Technology Behavior of Infrastructure or Underground Infrastructure Numerical Simulation (i.e. Finite Element Method and Finite Difference Method) Optimization Design of Underground Infrastructure Systems Asset Management in Infrastructure Relationship between Soil Structure and Tunneling or Piping Trenchless Technology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66a"
+  },
+  "name": "Ghada M Gad",
+  "title_dept": "Associate Professor, Construction Engineering and Management, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/gmgad/",
+  "email": "gmgad@cpp.edu",
+  "phone_number": "909.869.2648",
+  "office_location": "Building 17, 2681",
+  "office_hours": "T | NOON - 1 P.M.TH | 2 P.M. - 3 P.M.",
+  "website_text": [
+    "Teaching & Research Interests",
+    "TEACHING My teaching philosophy embraces active learning as key in improving the student learning experience. I have taught a variety of courses at both undergraduate and graduate level. Some of the courses taught over my academic career include: Construction Drawings and Specifications Construction Estimating Construction Contracts and Specifications Construction Scheduling Risk Management Project Delivery Methods RESEARCH My research expertise is in the area of construction engineering and management, specifically contracting methods, procurement strategies, cost forecasting, risk management, project performance metrics, and social aspects of construction projects. I have been heavily involved with transportation-related research (highways and airports) on the federal and state level. Before starting my academic career, I worked in the industry on mega construction infrastructure projects. I have been serving as a reviewer for multiple reputable journals, national and international conferences. In addition, I have also been serving on national committees and panels for different professional organizations, such as the Transportation Research Board (TRB) and Design-Build Institute of America (DBIA), as well as national NCHRP panels. I am currently a Handling Editor for the Transportation Research Record (TRR) Journal.",
+    "Education Ph.D., Civil Engineering (Construction Engineering Emphasis), Iowa State University, USA, 2013. M.S., Construction Engineering, American University in Cairo, Egypt, 2009. Diploma, Construction Engineering, American University in Cairo, Egypt, 2004. B.S., Construction Engineering, American University in Cairo, 2003"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66b"
+  },
+  "name": "Mikhail Gershfeld",
+  "title_dept": "Professional Practice Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/mgershfeld/",
+  "email": "mgershfeld@cpp.edu",
+  "phone_number": "909.869.4497",
+  "office_location": "Building 9, 233D",
+  "office_hours": "M W | 2:00 - 3:00 PMTH | 2:00 - 4:00 PM",
+  "website_text": [
+    "EDUCATION AND PROFESSIONAL REGISTRATION",
+    "MS Engineering - Cal Poly Pomona BS Civil Engineering - Cal Poly Pomona PE - Registered Civil Engineer SE - Sructural Engineer",
+    "TEACHING",
+    "Introduction to Structural Design Structural Analysis Timber Design Advanced Timber Design Architectural Engineering Interdisciplinary Design Timber, Precast Concrete MEP SystemI",
+    "SELECTED PUBLICATIONS",
+    "Papers and Presentations at Professional Conferences ICTB 2013 M. Gershfeld, J.Sheine. Case Study: Design of pedestrian timber bridges in an AE Studio Proceedings of 2nd International Conference on Timber Bridges. Las Vegas, NV, 2013 CUEE 2013 van de Lindt, P. Bahmani,M. Gershfeld, X. Shao, W. Pang, M.Symans, G.Mochizuki. Performance-Based Seismic Retrofit of Soft-Story Light-Frame Wood Buildings.Proceedings 10th International Conference on Urban Earthquake Engineering. Tokyo Institute of Technology, Tokyo, Japan, 2013 2013 ISEC-7 van de Lindt, P. Bahmani, M.Gershfeld, G. Kandukari, D. Rammer, S. PEI. Seismic Retrofit of Soft-Story Wood-Frame Building Using Cross-Laminated Timber.ISEC-7 New Developments in Structural Engineering and Construction. Proceedings of Seventh International Structural Engineering and Construction Conference Honolulu, HI, 2013. Quake Summit 2013 M.Gershfeld, C. Chadwell, J. van de Lindt, W. Pang, E. Ziaei, M. Amini, S.Gordon, E. Jennings. Distributed Knee-Braced (DKB) System as a Complete or Supplemental Retrofit of Soft-story Wood-frame Buildings. Presentation only. ASCE, Reno, NV, 2013 2013 SEAOC Convention M.Gershfeld, C. Chadwell, J. van de Lindt, W. Pang, E. Ziaei, M. J.Ferguson, J. Au, J. Savage and A.Gordon. Distributed Knee-Braced (DKB) System as a Complete or Supplemental Retrofit of Soft-story Wood-frame Buildings. Proceedings of Structural Engineers of California Convention. Indian Wells, CA. 2013 2013 PCI Convention and National Bridge Conference A.Schmitzberger, M. Gershfeld. 2012 AE Stuido-Precast Concrete: Student Work (Presentation only). 2013 PCI Convention and National Bridge Conference, Grapevine, TX, 2013 Northridge Earthquake Symposium (Northridge 20) M.Gershfeld. NEES Wood Frame Soft Story Research Program (presentation only). Northridge Earthquake Symposium, UCLA, Los Angeles, CA. 2014 2014 Structures Congress* M. Gershfeld, C. Chadwell, J. van de Lindt, W. Pang, E. Ziaei, M. Amini, S.Gordon, E. Jennings. Distributed Knee-Braced (DKB) System as a Complete or Supplemental Retrofit of Soft-story Wood-frame Buildings. Proceedings of Structures Congress 2014, Structural Engineering Institute of ASCE, Boston, MA, 2014 van de Lindt, P. Bahmani, S.Pryor, G. Mochizuki, M. Gershfeld, W. Pang, E. Ziaei, E.Jennings, M. Symans, X. Shao, J. Tian, D.Rammer. NEES-Soft Experimental Program for Seismic Risk Reduction of Soft-Story Woodframe Buildings. Proceedings of Structures Congress 2014, Structural Engineering Institute of ASCE, Boston, MA, 2014 2014 Sustainable Structures Symposium* Sheine, J., Gershfeld, M. Case Study: Models for Architecture and Engineering Collaborations in Higher Education using Mass Timber, a Modern Sustainable Material. Proceedings of the 5th Annual Sustainable Structures Symposium. Portland University, Portland Oregon, 2014 2014 10NCEE – 10th National Conference Earthquake Engineering Conference* Gershfeld M, Chadwell C, van de Lindt J, Pang W, Amini M, Gordon S. Distributed knee-braced system (DKB) as a complete or supplemental retrofit for soft-story wood-frame buildings. Proceedings of the 10th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Anchorage, AK, 2014. Tian J., Symans M.D., Gershfeld M., Bahmani P. and van de Lindt J. Seismic Performance of a Full-Scale Soft-Story Woodframed Building with Energy Dissipation Retrofit. Proceedings of the 10th NCEE, EERI, Anchorage, AK, 2014. Pang W, Ziaei E, Shao X, Jennings E, van de Lindt J, Gershfeld M, Symans M. A three-dimension model for slow hybrid testing of retrofits for soft-story wood-frame buildings. Proceedings of the 10th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Anchorage, AK, 2014. van de Lindt, J.W., Bahmani, P., Jennings, E.N., Pang, W., Ziaei, E., Mochizuki, G., Gershfeld, M., Pryor, S., Shao, X., Symans, M., Tian, J., Rammer, D. Full-scale testing of a soft-story woodframe building with stiffness-based retrofits. Proceedings of the 10th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Anchorage, AK, 2014. 2014 WCTE – World Conference on Timber Engineering* M. Gershfeld, C. Chadwell, E. Jennings, E. Ziaei, W. Pang, X. Shao, J. van de Lindt. Seismic Performance of Distributed Knee-Brace (DKB) system as a retrofit for SOFT-story wood-frame buildings. Proceedings of 2014 World Conference on Timber Engineering. 68th International Convention Forest Product Society. Quebec City, Canada. J.van de Lindt, P. Bahmani, M.Gershfeld, G. Mochizuki, X.Shao, S.Pryor, W.Pang, M. Symans, J. Tian, E. Ziaei, E. Jennings, D.Rammer. Seismic Risk Reduction for Soft-story Woodframe Buildings: Test Results and Retrofit Recommendations from the NEES-Soft Project. Proceedings of 2014 World Conference on Timber Engineering. 68th International Convention Forest Product Society. Quebec City, Canada. P.Bahmani, J. van de Lindt, S. Pryor, M.Gershfeld, G.Mochizuki, S.Park. Performance-Based Seismic Retrofit Methodology of Soft-Story Woodframe Buildings with Full-Scale Shake Table Test Validation. Proceedings of 2014 World Conference on Timber Engineering. 68th International Convention Forest Product Society. Quebec City, Canada. van de Lindt, P.Bahmani, G. Mochizuki, M.Gershfeld, A.Iqbal. Observed Performance of Soft-Story Woodframe Building Retrofitted with CLT Rocking Walls.Proceedings of 2014 World Conference on Timber Engineering. 68th International Convention Forest Product Society. Pang, E.Ziaei, E.Jennings, X. Shao, J. van de Lindt, M. Gershfeld. Numerical Model for Hybrid Simulation of a Three-Story Wood-Frame Building. Proceedings of 2014 World Conference on Timber Engineering. 68thInternational Convention Forest Product Society. Quebec City, Canada. ASCE Journal of Architectural Engineering* van de Lindt, Bahmani, Mochizuki, Gershfeld, and Pryor. “Experimental Seismic Collapse Study of a Full-Scale Four-Story Soft-Story Woodframe Building” ASCE Journal of Architectural Engineering special edition “Housing and Residential Building Construction” (under review) ASCE Structural Engineering Journal* Bahmani, van de Lindt, Gershfeld, Mochizuki, Pryor, Rammer. “Experimental Seismic Behavior of a Full-Scale Four-Story Soft-Story Woodframe Building I: Building, Retrofit Methodology, and Numerical Validation” ASCE Journal of Structural Engineering. (under review) van de Lindt, Bahmani, Mochizuki, Pryor, Gershfeld, Tian, Symans, Rammer. “Experimental Seismic Behavior of a Full-Scale Four-Story Soft-Story Woodframe Building with Retrofits II: Shake Table Test Results” ASCE Journal of Structural Engineering. (under review) Journal of Earthquake Engineering* Jennings, J.van de Lindt, E. Ziaei, P. Bahmani, S.Park, X. Shao, W. Pang, D. Rammer, G. Mochizuki, and M. Gershfeld. Full-Scale Experimental Verification of Soft-Story-Only Retrofits using Hybrid Testing Submitted to Journal of Earthquake Engineering, May 2014 (under review) Forest Product Society - Wood Design Focus M. Gershfeld, C. Chadwell, J. van de Lindt, M. Amini, and S.Gordon. Retrofitting Soft-story Wood-frame Buildings with Distributed Knee-Braced (DKB) Frames. Submitted to Wood Design Focus. 2014 Bahmani, J. van de Lindt, S. Pryor, G. Mochizuki,M.Gershfeld, D. Rammer, J. Tian and M. Symans. Performance Based Seismic Retrofit of Soft Story Woodframe Buildings. Wood Design Focus. 2014 Structure Magazine Bahmani, J. van de Lindt, S. Pryor, G. Mochizuki, M.Gershfeld, D. Rammer, J. Tian and M. Symans. Performance Based Seismic Retrofit of Soft Story Woodframe Buildings. Structure Magazine. June 2014 p24-27 2016 WCTE – World Conference on Timber Engineering Mini-Symposium Co-organizer 2016 WCEE – World Conference Earthquake Engineering Fergason, C. Chadwell, M. Gershfeld. A Steel Version of the Distributed Knee Brace (DKB) system retrofit option for soft story timber buildings Submission ID: 2367 (Abstract accepted) Professional Service - Reviewer ASCE Journal of Structural Engineering ASCE Journal of Performance of Construction Facilities Engineering Structures",
+    "PROFESSIONAL AFILIATIONS Senior Advisor TallWood Design Institute Advisory Board Member, Joint Institute for Wood Innovation, State of California"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66c"
+  },
+  "name": "Mehrad Kamalzare",
+  "title_dept": "Associate Professor , Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/mkamalzare/",
+  "email": "mkamalzare@cpp.edu",
+  "phone_number": "909.869.4908",
+  "office_location": "Building 17 - Room 2673",
+  "office_hours": "T | 1:00 PM - 2:30 PMW | 11:30 AM - 1:00 PM",
+  "website_text": [
+    "About me",
+    "Dr. Mehrad Kamalzare joined California State Polytechnic University, Pomona (Cal Poly Pomona) in the fall of 2016 as an Assistant Professor of Civil Engineering, where prior to that he was a licensed Professional Engineer in New York as well as an Adjunct Professor in the Department of Civil and Environmental Engineering in Rutgers University, Piscatawat, NJ, teaching graduate level classes in geotechnical engineering. In 2022 Dr. Kamalzare was promoted to Associate Professor, and currently teaches variaty of undergraduate and graduate courses in the areas of Geotechnical Engineering, where his major research focus is also at. He serves as Associate Editor of the International Journal Geotechnical Engineering (ISSN: 1938-6362) as well as Editor-in-Chief of Journal of Geotechnical and Transportation Engineering (ISSN: 2379-8769). He is also serving as technical reviewer for several other journals including Soils and Foundations journal, Elsevier (ISSN: 0038-0806), Journal of Geotechnical and Geoenvironmental Engineering, ASCE (ISSN:1090-0241), Journal of Acta Geotechnica Slovenica (ISSN:1854-0171), Journal of Central South University, Springer (ISSN:2095-2899), Journal of Testing and Evaluation - ISSN: 0090-3973, ASTM, and Journal of Geomechanics and Engineering, ASCE (ISSN: 2092-6219).",
+    "Education and Professional Registrations",
+    "Ph.D. Civil Engineering (Geotechnical Engineering), Department of Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Troy, NY, 2013 M.S. Geotechnical Engineering, Department of Civil Engineering, International University of Qazvin, 2010 B.S. Civil Engineering, Department of Civil Engineering, International University of Qazvin, 2008 P.E. Registered Professional Civil Engineer in the States of CA, NY, CT Editor-in-Chief, Journal of Geotechnical and Transportation Engineering (ISSN: 2379-8769), New York, NY, Jan. 2015 – Present Associate Editor, International Journal of Geotechnical Engineering (ISSN: 1938-6362), Taylor & Francis, London, UK, Jan. 2017 – Present",
+    "Contact Civil Engineering DepartmentCalifornia State Polytechnic University3801 W. Temple Ave., Pomona, CA 91768"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66d"
+  },
+  "name": "Sunai Kim",
+  "title_dept": "Assistant Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/sunaikim/",
+  "email": "sunaikim@cpp.edu",
+  "phone_number": "909-869-4332",
+  "office_location": "2692",
+  "office_hours": "T TH | 12-1PM",
+  "website_text": [
+    "Education and Professional Registrations",
+    "Ph.D. Structural & Earthquake Engineering, Department of Civil and Environmental Engineering, University of California, Los Angeles M.S. Structural & Earthquake Engineering, Department of Civil and Environmental Engineering, University of California, Los Angeles B.S. Civil Engineering, Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign P.E. Registered Professional Civil Engineer | C74450 (CA), 18932 (HI) S.E. Registered Structural Engineer | S6042 (CA) Certified Post-Disaster Safety Assessment Evaluator, CA Governor's Office of Emergency Services | 68479",
+    "Previous Appointments",
+    "Structural Plans Review Engineer, Bureau Veritas North America | 2019-Present Assistant Professor, Department of Civil Engineering, Loyola Marymount University | 2017-2022 Structural Engineer, Los Angeles Unified School District, Los Angeles, CA | 2016-2017 Tall Buildings Intern, Thornton Tomasetti, New York, NY | Summer, 2014 Structural Design Engineer, John A. Martin & Associates, Los Angeles, CA | 2008 - 2012 Transportation Engineer, CTE | AECOM, Chicago, IL | 2006-2007",
+    "Teaching",
+    "Graduate CE5504 Advanced Steel Design Undergraduate CE 4810/20 Senior Design Project CE4560 Structural Steel Design CE2051 Mechanics of Materials CE2041 Statics Extracurricular Orange County Sustainability Decathlon 2023 AISC Steel Bridge",
+    "Grants & Selected Publications",
+    "Current Sponsored Projects CURE (Closing Achievement Gaps in Core Undergraduate Civil Engineering Courses) Sponsor: National Science Foundation ($1,000,000) PI: S. Kim, Co-PI's: G. Lomiento, F. Perez, Y. Salem, J. Woo Period: 01/2024 - 12/2027 Abstract: NSF Award #2318158 Media: Twitter from Congresswoman Torres, HeySoCal, MyNewsLA, PolyPost OCSD23 (Orange County Sustainability Decathlon 2023) Sponsor: Charitable Ventures | State of California ($100,000) PI: S. Kim, Cal Poly Pomona's Team of Students, Faculty, Mentors, Sponsors Period: 01/2022 - 10/2023 Website: Team Roots | Instagram: Team Roots |Students' 1-min Promotional Video 3D Virtual Tour: Roots House | Photos: Roots House University News: Polypost, CPP News (2), CPP News (1), CPP Top News of 2023 (#10), Media: Archinect, Voice of OC, Claremont Courier (2), Claremont Courier (1), Los Angeles Daily News, SoCal Edison's Energized Blog, Spectrum News 1 (2), LAist, The Orange County Register, Yahoo Lifestyle TV/Youtube: Panther News, Interview with OCSD23, Univision 34 University of Pennsylvania | Wharton Executive Education Entrepreneurship Acceleration Program: Scaling Your Business Finalist & Winner (S. Kim) of 2023-12 Wharton Business Plan Competition ($10,000) for a sustainable construction company. Exemplary Work in: Elevator Pitch, Business Plan Past Grants Inclusive Excellence Grant | Loyola Marymount University (2022) Faith & Justice Curriculum Grant | Loyola Marymount University (2021) Continuing Faculty Grant | Loyola Marymount University (2018, 2020) Academic Technology Grant | Loyola Marymount University (2018) Journal Articles Kim, S. and Wallace, J.W. (2022). \"Reliability of Structural Wall Shear Design for Tall Reinforced Concrete Core Wall Buildings,\" Engineering Structures. v. 252. https://doi.org/10.1016/j.engstruct.2021.113492 Conference Papers Unal, E., Abdullah, S. A., Kolozvari, K., Kim, S., Wallace, J. (2024). \"Testing of Reinforced Concrete Beams and Structural Walls under Wind and Seismic Loading Protocols,\" WCEE Conference June 30 - July 5, 2024, Milan, Italy. Kim, S., Lin, J., Sullivan, M., Law, D., Omar, T., Salem, Y. (2024), \"A Framework for Multidisciplinary Student Teams Participating in a Large-Scale Design-Build Competition,\" ASEE PSW Conference April 18-20, 2024, Las Vegas, NV. Kim, S., Forney, A., Cappelli, C., Doezema, L. A., Morales, V. C., and Ruengvirayudh, P. (2023). \"Examining Timely Positive Interventions Utilized by First-Year Students to Improve their Course Grades in Science and Engineering,\" ASEE Conference June 25-28, 2023, Baltimore, MD. Forney, A. & Kim, S. (2020). \"Redefining Retention in STEM Education: New Perspectives on a Student-centered Metric of Success,\" ASEE Conference June 22-26, 2020, Online. Selected as Educational Research and Methods Division's (ERM) Best Paper Finalist (Top 4). Kim, S. Wallace, J.W. (2017). \"Shear Design of Reinforced Concrete Structural Walls,\" 16th World Conference on Earthquake Engineering, Santiago, Chile. Kim, S. Wallace, J.W. (2014). \"Reinforced Concrete Wall Boundary Element Longitudinal Reinforcing Termination,\" Tenth U.S. National Conference on Earthquake Engineering, Alaska, AK. Awards Solar Decathlon Faculty Training Scholarship, Society of Building Science Educators (NREL, CO) | 2024 Fulbright Specialist, U.S. Department of State | 2019-2024 (5-year tenure) ASCE ExCEED Fellow (Excellence in Civil Engineering Education Teaching Workshop) | 2022 Ascending Scholar Award, Loyola Marymount University | 2020 Seaver College Fellowship, Loyola Marymount University | 2020 Graduate Academic Scholarship, Korean-American Scientists and Engineers Association | 2014 Young Generation Forum Travel Award, Korean Federation of Science & Technology | 2013 The Young Generation Technical and Leadership Conference Travel Award, Korean-American Scientists and Engineers Association | 2012 Graduate Opportunity Fellowship, UCLA | 2007-2008 (full tuition & stipend towards MS) Undergraduate Academic Scholarship, American Public Works Association | 2003, 2004, 2005 Undergraduate Academic Scholarship, International Concrete Repair Institute | 2003, 2004 Louise Moritz Molitoris Leadership Fund, Women in Transportation Seminar | 2003 Maude E. Eide Memorial Scholarship, University of Illinois at Urbana-Champaign | 2003 Undergraduate Academic Scholarship, Korean-American Scientists and Engineers Association | 2002",
+    "Research Interests Behavior of Tall Buildings Reliability of RC Shearwall Design Performance-Based Wind Design Engineering Education Sustainable Building Design Modular Construction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66e"
+  },
+  "name": "Kenneth Lamb, P.E., Ph.D.",
+  "title_dept": "Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/kwlamb",
+  "email": "kwlamb@cpp.edu",
+  "phone_number": "909.869.3422",
+  "office_location": "Building 9, 406",
+  "office_hours": "M T W TH F | (BY APPOINTMENT ONLY)",
+  "website_text": [
+    "Advising Appointments",
+    "To schedule an advising session click on the link here. If these times do not work please email me your questions and I can respond via email.",
+    "Teaching",
+    "Fluid Mechanics Civil Engineering Hydraulics Water Resources Engineering Technical Communications Role of Design Professionals in Society Engineering Leadership",
+    "Instructional Videos",
+    "Hydraulics Hydrology Pressurized Pipe Analysis Flood Frequency Analysis Pipe Network Analysis Pump Selection Structural Analysis Open Channel Flow Steel Pipe Wall Thickness Analysis Open Channel Analysis Lab (Excel) Numerical Analysis (Goal Seek)",
+    "Education and Professional Registration",
+    "Professional Engineer - CivilNevada Lic. No. 18889 University of Nevada Las VegasDoctor of Philosophy Engineering2010 Bachelors of Science, Civil Engineering2003 Norwich University Masters of Civil Engineering2007",
+    "Research & Professional Interests PedagogyProject-Based LearningTeam CommunicationLeadership Development in EngineersTechnicalHydroclimatology and ForecastingWater Distribution System Hydraulics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c66f"
+  },
+  "name": "Simeng Li",
+  "title_dept": "Assistant Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/sli/",
+  "email": "sli@cpp.edu",
+  "phone_number": "909.869.4787",
+  "office_location": "09-312",
+  "office_hours": "W | 8:30 AM - 10:30 AMT TH | 11:15 AM - 11:45 AM",
+  "website_text": [
+    "Education",
+    "Ph.D., Civil Engineering, Florida State University M.Eng., Civil Engineering, Florida State University B.Eng., Environmental Engineering, Ocean University of China",
+    "Biography",
+    "Dr. Simeng Li joined the faculty of civil engineering in August 2019 after completing his Ph.D. and M.Eng both from the Florida State University. His academic and research interests are firmly rooted in the fields of environmental and water resources engineering, driven by a profound commitment to sustainability and environmental enhancement. His work focuses on developing innovative strategies to enhance water system resilience, pioneering new approaches to convert waste into valuable resources, and addressing environmental challenges by remediating both legacy and emerging contaminants. During his tenure at Cal Poly Pomona, Dr. Li has had the privilege of instructing a wide array of courses catering to both undergraduate and graduate students. His is passionate about fostering academic growth by consistently provideing valuable experiential learning opportunities to aspiring students. (Personal Webpage)",
+    "Teaching",
+    "Undergraduate Courses: CE 2061 Fluid Mechanics CE 3201 Environmental Engineering CE 3201L Environmental Engineering Laboratory CE 3211 Water Resources Engineering CE 4201 Water and Wastewater Engineering CE 4211 Applied Hydrology CE 4241 Environmental Remediation CE 4830 Project Design Principles and Applications Graduate Courses: CE 5230 Bioresources and Bioenergy Recovery CE 5241 Environmental Remediation CE 5260 Advanced Wastewater Treatment",
+    "Selected Publications",
+    "Li, S.*, Tasnady, D., Skelley, S., Calderon, B., Jiang, S. (2024) Enhancing organic contaminant removal from wool scouring wastewater using chemically modified biochars. Journal of Carbon Research, 10(1), 6. DOI: 10.3390/c10010006. Li, S.*, Galoustian, T., Trejo, H. (2023) Biochar pyrolyzed with concentrated solar radiation for enhanced nitrate adsorption. Journal of Analytical and Applied Pyrolysis, 174, 106131. DOI: 10.1016/j.jaap.2023.106131. Li, S.*, Chan, C. (2022) Will biochar suppress or stimulate greenhouse gas emissions in agricultural fields? Unveiling the dice game through data syntheses. Soil Systems, 6(4), 73. DOI: 10.3390/soilsystems6040073. Brickler, C., Wu, Y., Li, S.*, Anandhi, A., Chen, G. (2021) Comparing physicochemical properties and sorption behaviors of pyrolysis-derived and microwave-mediated biochar. Sustainability, 13(4), 2359. DOI: 10.3390/su13042359. Wu, Y., Li, S.*, Chen, G. (2021) Impacts of mechanical and chemical factors on water-holding capacity of polyacrylamide in sandy soils: Models and mechanisms. Soil Research, DOI: 10.1071/SR20200. Makhtoumi, Y.*, Li, S., Ibeanusi, V., Chen, G. (2020) Evaluating water balance variables under land use and climate projections in the Upper Choctawhatchee River Watershed in Southeast US. Water, 12(8), 2205. DOI: 10.3390/w12082205. Li, S.*, Duran, K., Delagah, S., Mouawad, J., Jia, X., Sharbatmaleki, M. (2021) Energy efficiency of staged reverse osmosis (RO) and closed-circuit reverse osmosis (CCRO) desalination: A model-based comparison. Water Supply. DOI: 10.2166/ws.2020.208. Wu, Y., Brickler, C., Li, S.*, Chen, G. (2020) Synthesis of microwave-mediated biochar-hydrogel composites for enhanced water absorbency and nitrogen release. Polymer Testing, 93, 106996. DOI: 10.1016/j.polymertesting.2020.106996. Huang, J., Xu, Q.*, Wang, X., Ji, H., Sharbatmaleki, M., Li, S., Jia, X., Sun, B., Yang, X., Li, C. (2020) Effects of hydrological and climatic variables on Cyanobacteria blooms in four large shallow lakes fed by Yangtze River. Environmental Science and Ecotechnology, 5, 100069. DOI: 10.1016/j.ese.2020.100069. Li, S., Wu, Z., Wu, Z., Liu, G.* (2020) Enhancing fiber recovery from wastewater may require toilet paper redesign. Journal of Cleaner Production, 261, 121138. DOI: 10.1016/j.jclepro.2020.121138. Li, S.*, Li, R., Tang, Y., Chen, G. (2019) Microwave-induced heavy metal removal from dewatered biosolids for cost-effective composting. Journal of Cleaner Production, 241, 118342. DOI: 10.1016/j.jclepro.2019.118342. Li, S., Wu, Z., Liu, G.* (2019) Degradation kinetics of toilet paper fiber during wastewater treatment: Effects of retention time and microbial community. Chemosphere, 225, 915-926. DOI: 10.1016/j.chemosphere.2019.03.097.",
+    "Research Interests Water sector resilience Waste-to-resource solutions Remediation of legacy/emerging contaminants"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c670"
+  },
+  "name": "Giuseppe Lomiento",
+  "title_dept": "Associate Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/glomiento/",
+  "email": "glomiento@cpp.edu",
+  "phone_number": "909.979.5586",
+  "office_location": "Building 17, Office 2663",
+  "office_hours": "M | 3:00 PM - 4:00 PMM | 7:00 PM - 8:00PMT | 12:00 PM - 1:00 PM ON ZOOMW | 1:00 PM - 3:00 PM",
+  "website_text": [
+    "Education",
+    "Postdoctoral studies, Department of Structural Engineering, University of California, San Diego, CA Ph.D., Structural Engineering, Sapienza University, Rome, Italy M.S. (Laurea), summa cum laude, Civil Engineering, Sapienza University, Rome, Italy",
+    "Teaching",
+    "Mechanics of Materials Structural Analysis Structural Design Lab Structural Testing Lab Reinforced Concrete Design Advanced Structural Analysis Finite Element Modeling Base Isolation and Energy Dissipation",
+    "Selected Publications",
+    "Gandelli, E., Penati, M., Quaglini, V., Lomiento, G., Miglio, E., Benzoni, G. (2018). \"A novel OpenSees element for single curved surface sliding isolators.\" Soil Dynamics and Earthquake Engineering. Bonessio, N., Benzoni, G., Lomiento, G. (2017). A multi-mode approach for multi-directional damage detection in frame structures. Engineering Structures, 147, 505-516. Bonessio, N., Arias, A., Lomiento, G., Peters, O. A. (2016). Effect of root canal treatment procedures with a novel rotary nickel titanium instrument (TRUShape) on stress in mandibular molars: a comparative finite element analysis. Odontology, 1-8. Bonessio, N., Zappi, P., Benzoni, G., Rosing, T. S., Lomiento, G. (2016). Structural Health Monitoring of Bridges via Energy Harvesting Sensor Nodes. The Open Construction and Building Technology Journal, 10(1). Bonessio, N., Arias, A., Pereira, E., Bahai, M., Buono, V., Lomiento G., Peters O. (2015) “Validated finite element analyses of WaveOne Endodontic Instruments: a comparison between M-Wire and NiTi alloys”, International Endodontic Journal, 48(5), 441-450. DOI: 10.1111/iej.12333. Benzoni, G., Bonessio, N., Lomiento, G. (2014) “Numerical and Experimental validation of a Structural Health Monitoring technique for Critical Infrastructure” Ingegneria Sismica, International Journal of Earthquake Engineering, 30 (2). Lomiento, G., Bonessio, N., Benzoni, G., Phillippi, D., Hegemier, G. (2014) “Capacity Assessment of RC V-shaped bridge bents” ASCE Journal of Bridge Engineering, 19(2), 266–280. DOI 1061/(ASCE)BE.1943-5592.0000511. Lomiento, G., Bonessio, N., Benzoni, G. (2013) “Concave sliding isolator’s performance under multi-directional excitations” Ingegneria Sismica, International Journal of Earthquake Engineering, 30(3), 17-32. Lomiento, G., Bonessio, N., Benzoni, G. (2013) “Friction model for sliding bearings under seismic excitation” Journal of Earthquake Engineering, 17(8), 1162-1191. DOI: 10.1080/13632469.2013.814611. Bonessio, N., Lomiento, G., Benzoni, G., (2012). “Damage identification procedure for seismically isolated bridges”, Structural Control and Health Monitoring, 19(5), 565-578. DOI:10.1002/stc448.",
+    "Research Interests Earthquake engineering and seismic risk management Multi-hazard resilience Steel, concrete, and composite buildings and bridges Innovative structural systems and structural rehabilitation Structural dynamics and control Structural health monitoring Engineered materials and metamaterials Material and large-scale experimental testing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c671"
+  },
+  "name": "Omar E. Mora",
+  "title_dept": "Associate Professor of Geospatial Engineering, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/oemora/",
+  "email": "oemora@cpp.edu",
+  "phone_number": "909.869.2656",
+  "office_location": "Building 9 - Room 421",
+  "office_hours": "M | 10:00 AM - 12:00 PM IN 17-1671F | 8:00 AM - 10:00 AM IN 9-421",
+  "website_text": [
+    "Education",
+    "Ph.D. Geodetic Engineering, Department of Civil, Environmental and Geodetic Engineering, The Ohio State University, 2015 M.S. Geomatics Engineering, Lyles School of Civil Engineering, Purdue University, 2010 B.S. Civil Engineering - Emphasis: Geospatial Engineering, Civil Engineering Department, California State Polytechnic University, Pomona, 2007",
+    "Teaching",
+    "CE 1011/1011L – Surveying Engineering & Laboratory (Undergraduate) CE 2011 – Technical Communications (Undergraduate) CE 2070 – Computer Programming and Numerical Methods (Undergraduate) CE 3301 – Engineering Geomatics (Undergraduate) CE 4301/4301L - Digital Mapping & Laboratory (Undergraduate) CE 4350/4350L – Photogrammetry & Laboratory (Undergraduate) EGR 4810/4820/4830 – Project Design Principles and Applications (Undergraduate) CE 5990 – Applications of Geospatial Technologies for Practitioners (Graduate)",
+    "Selected Publications",
+    "Refereed Journals: Truong, L.N.H., Clay, E., Mora, O.E., Cheng, W., Singh, M., & Jia, X., 2022. Rotated Mask Region-Based Convolutional Neural Network Detection for Parking Space Management System. Transportation Research Record. McMahon, C., Mora, O.E. and Starek, M.J., 2021. Evaluating the Performance of sUAS Photogrammetry with PPK Positioning for Infrastructure Mapping. Drones, 5(2), p.50. Truong, L.N.H., Mora, O.E., Cheng, W., Tang, H. and Singh, M., 2021. Deep Learning to Detect Road Distress from Unmanned Aerial System Imagery. Transportation Research Record. Mora, O.E., Langford, M., Mislang, R., Josenhans, R. and Chen, J., 2020. Precision performance evaluation of RTK and RTN solutions: a case study. Journal of Spatial Science, pp.1-14. Mora, O.E., Chen, J., Stoiber, P., Koppanyi, Z., Pluta, D., Josenhans, R. and Okubo, M., 2020. Accuracy of stockpile estimates using low-cost sUAS photogrammetry. International Journal of Remote Sensing, 41(12), pp.4512-4529. Mora, O.E., Suleiman, A., Chen, J., Pluta, D., Okubo, M.H. and Josenhans, R., 2019. Comparing sUAS Photogrammetrically-Derived Point Clouds with GNSS Measurements and Terrestrial Laser Scanning for Topographic Mapping. Drones, 3(3), p.64. Tran, C.J., Mora, O.E., Fayne, J.V. and Lenzano, M.G., 2019. Unsupervised Classification for Landslide Detection from Airborne Laser Scanning. Geosciences, 9(5), p.221. Mora, O.E., Lenzano, M.G., Toth, C.K., Grejner-Brzezinska, D.A. and Fayne, J.V., 2018. Landslide change detection based on multi-temporal airborne LIDAR-derived DEMs. Geosciences, 8(1), p.23. Mora, O.E., Liu, J.K., Gabriela Lenzano, M., Toth, C.K. and Grejner-Brzezinska, D.A., 2015. Small landslide susceptibility and hazard assessment based on airborne lidar data. Photogrammetric Engineering & Remote Sensing, 81(3), pp.239-247. Other Refereed Publications: Clay, E.R., Lee, K.S., Tan, S., Truong, L.N.H., Mora, O.E., and Cheng, W.: PERFORMANCE EVALUATION OF BUILDING FAÇADE RECONSTRUCTION FROM UAS IMAGERY, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVI-M-2-2022, 65–69, https://doi.org/10.5194/isprs-archives-XLVI-M-2-2022-65-2022, 2022. Clay, E.R., Lee, K.S., Tan, S., Truong, L.N.H., Mora, O.E., and Cheng, W.: ASSESSING THE ACCURACY OF GEOREFERENCED POINT CLOUDS FROM UAS IMAGERY, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVI-M-2-2022, 59–64, https://doi.org/10.5194/isprs-archives-XLVI-M-2-2022-59-2022, 2022. Perez, F.J. and Mora, O.E., 2022. A Vision-Based System for Structural Displacement Measurement. 7th World Congress on Civil, Structural, and Environmental Engineering (CSEE'22), ICSECT 127, pp.1-8. Chen, J., Mora, O.E., and Clarke, K.C.: ASSESSING THE ACCURACY AND PRECISION OF IMPERFECT POINT CLOUDS FOR 3D INDOOR MAPPING AND MODELING, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., IV-4/W6, 3–10, https://doi.org/10.5194/isprs-annals-IV-4-W6-3-2018, 2018. Mora, O.E., Lenzano, M.G., Toth, C.K., and Grejner-Brzezinska, D.A.: Analyzing the Effects of Spatial Resolution for Small Landslide Susceptibility and Hazard Mapping, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XL-1, 293–300, https://doi.org/10.5194/isprsarchives-XL-1-293-2014, 2014.",
+    "Professional Affiliations ASPRS - American Society for Photogrammetry and Remote Sensing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c672"
+  },
+  "name": "Allan Y Ng",
+  "title_dept": "Professional Practice Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/ayng/",
+  "email": "ayng@cpp.edu",
+  "phone_number": "909.869.4612",
+  "office_location": "Building 98, Room C3-11",
+  "office_hours": "Su | SPRING 2024 SABBATICAL LEAVE",
+  "website_text": [
+    "Education and Professional Registrations",
+    "MSCE, Geomatics, Purdue University, 2004 BSCE, Surveying Engineering Option, Cal Poly Pomona, 2003 PLS, Registered Professional Land Surveyor in State of California",
+    "Professional Affliliations",
+    "ASCE - American Society of Civil EngineersCLSA- California Land Surveyors Association",
+    "Teaching",
+    "Introduction to CE Design Surveying Engineering Engineering Geomatics Photogrammetry Digital Mapping Satellite Surveying In Engineering Subdivision Engineering and Land Survey Descriptions California Boundary Law and Public Lands",
+    "Selected Publications",
+    "Gillins, Daniel T, Michael L Dennis, and Allan Y Ng (2022). Surveying and Geomatics Engineering: Principles, Technologies, and Applications. 1st ed. Vol. 152. American Society of Civil Engineers, 2022. Print. Allan Ng (2016). Book review: GPS for Land Surveyors, 4th Edition. American Society of Photogrmmetry and Remote Sensing. PE&RS, p. 181-182. Robert Kayen, Brad D. Carkin, Skye Corbet, Camilo Pinilla, Allan Ng, Edward Gorbis, Christine Truong (2014). Seismic Velocity Site Characterization of Thirty-One Chilean Seismometer Stations by Spectral Analysis of Surface Wave Dispersion. Pacific Earthquake Engineering Research Center, PEER 2014/05. Allan Ng (2011), Enhancing the Quality of Our Profession Through Education. California Surveyors, Issue #166, p. 28.",
+    "Research Interests Integration of Technologies in Geospatial Education Laser Scanning Models Integration with Building Information System Laser Scanning Applications in Earthquake Induced Liquefaction and Change Detection UAV Development and Applications in Engineering"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c673"
+  },
+  "name": "Monica Palomo",
+  "title_dept": "Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/mpalomo/",
+  "email": "mpalomo@cpp.edu",
+  "phone_number": "9098694144",
+  "office_location": "Building 17, 2661",
+  "office_hours": "T | 11:00 AM - 12:00 PMT | 2:15 PM - 2:45 PMW | 9:00 AM - 10:30 AMTH | 11:00 AM -12:00 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Board Certified Environmental Engineer, Water Supply/Wastewater Engineering Professional Licensed Engineer, California PhD. Civil Engineering. Kansas State University, Manhattan, KS. May 2008 M.S. Civil Engineering. Kansas State University, Manhattan, KS. May 2003. B.S. Civil Engineering, University of Guanajuato, Gto, Mexico December 1999. Summa cum laude. Exchange student, Civil Engineering Department, CSU, Sacramento. Sponsored by NAFTA, fall 1997- spring 1998",
+    "Teaching",
+    "Environmental Engineering Water Resources Hydraulic Engineering Hydraulic Engineering Laboratory Water and Wastewater Engineering Water and Wastewater Engineering Laboratory Groundwater, Solute, Transport and Remediation Project Design Principles and Applications Advance Water Treatment Unit Operation Processes in Environmental Engineering Environmental and Water Resources Seminar",
+    "Selected Publications",
+    "Refereed Journals: Mladenov, N.; Bigelow, A. **; Pietruschka, B.; Palomo, M.; Buckley, C.(2017) Using submersible fluorescence sensors to track the removal of organic matter in decentralized wastewater treatment systems (DEWATS) in real time. Water Science and Technology. 77. Palomo, M. Manuscript titled: Sustainable infrastructure- Introduction to Sustainability. Submitted for peer review to the Center for Sustainable Engineering Educational Modules. September 2015. http://csengin.syr.edu/electronic-holdings-library/search-results/ Palomo, M., A. Bhandari, H. Enriquez*, W. Rodriguez*. Natural Treatment of Surface Water and Groundwater with Woodchip Reactors. In Novel Solutions to Water Pollution, American Chemical Society Publications. Publication Date (Web): March 18, 2013 | doi: 10.1021/bk-2013-1123.ch004. 2013. Palomo, M.; A. Bhandari. Stabilization of Enzymatically Polymerized Phenolic Chemicals in a Model Soil Organic Matter-Free Geomaterial. Journal of Environmental Quality. Vol. 41 No. 6, p. 1916-1922, 2012. Palomo, M. and Bhandari, A. Peroxidase-Catalyzed Stabilization of 2,4-Dichlorophenol in Alkali-Extracted Soils. Journal of Environmental Quality. Vol. 40, No. 1, p: 126-32, 2011. Starret, S.; Yunsheng, S.; Heier, T.; Klein, J.; Holste, J.; and Palomo, M. Long-term Monitoring of nutrient loss in runoff from a golf course. USGA Turfgrass and Environmental Research Online 7(18):1-9, 2008. Palomo, M.; Bhandari, A. Impact of aging on the formation of bound residues after peroxidase-mediated treatment of 2,4-DCP contaminated soils. Environmental Science & Technology. 40:3402-3408, 2006. Fitzpatrick, J.; Wallis-Lage, C.; Bhandari, A.; Palomo, M. Bubble trouble - Researchers find that wet weather ballasted flocculation effluent has a tendency to foam. Water Environment & Technology. 17 (12) 2005. Palomo, M.; Bhandari, A. Time-dependent sorption-desorption behavior of 2,4-dichlorophenol and its polymerization products in surface soils. Environmental Science & Technology. 39: 2143-2151, 2005. Refeered Conference Proceedings: Casad, B., Palomo, M., Mladenov, N. International Scientific Research Experiences: Developing Global Citizens and Nurturing Engineers and Scientists of the Future. Proceedings of the 2018 ASEE Annual Conference and Exposition, Salt Lake City UT, June 24- 27, 2018. Palomo, M., Cole, G. An Innovative approach to recruit and retain historically underrepresented students in engineering. Proceedings of the 2017 ASEE Annual Conference and Exposition, Columbus, Ohio, June 25 - 28, 2017. Ribas, G.*, Bautista, J.*, Gonzalez-Figueroa, J.*, Palomo, M. Bioretention Systems: Stormwater Management Utilizing Low Impact Development Principles (Bioretention Cells). Paper prepared for the CSU Wide Student Research Competition Presentation at San Luis Obispo, April 28-29, 2017. Palomo, M., N. Mladenov, n. Casad, B. Training future scientists in sustainable sanitation through international research experiences (IRES). Proceedings of the American Society of Engineering Education (ASEE) Pacific South West Conference, Pomona, CA, June 25 - 28, 2016. Palomo, M.; Cole J. Expanding institutional bonds for teaming up students for the creation of research environmental projects. Proceedings of the 2015 ASEE Annual Conference and Exposition, Seattle, WA June 14 – 17, 2015. Palomo, M. Linking a Senior Civil Engineering Water Analysis Laboratory to Public Education. Proceedings in the American Society for Engineering Education Southwest (ASEE/PSW) Conference: Emerging Paradigm in Engineering Education, San Diego, California, April 10-11, 2015. Calderon, B. M.*; Attanayake, C. P.; Palomo, M.; Hettiarachchi, G. M. Sustainable gardening initiatives in previously used urban soils. Proceedings of the World Environmental and Water Resources Institute (EWRI) Congress 2015, Austin TX, May 17-21, 2015. Rodriguez, W.*, Palomo, M. Reclamation of Tile Effluent: Denitrifying Woodchip Bioreactors. Proceedings of the World Environmental and Water Resources Institute (EWRI) Congress 2010, Challenges of Change. 2010 ASCE. Palomo, M.; Bhandari, A. Peroxidase-mediated Stabilization of 2,4-dichlorophenol in a Model Humin-mineral Geomaterial. Proceedings of the World Environmental & Water Resources Institute (EWRI) Congress. 2009 ASCE. Kansas City Missouri. Palomo, M.; Bhandari, A. Peroxidase Mediated Enhancement in Sorption and Binding of 2,4-Dichlorophenol to Modified Surface Soil. Proceedings of the National Technical & Career Conference of the Society of Hispanic Professional Engineers, Lake Buena Vista, FL. January 4-8, 2006. Bhandari, A.; Fitzpatrick, J.; Palomo, M.; Wallis-Lage, C. Ballasted flocculation - surfactants and effluent foaming potential. Proceedings of the 78th Annual Conference and Exposition, Water Environment Federation, Washington, DC. October 29-November 2, 2005. Palomo, M.; Phillips, H.M.; Bhandari, A. Effect of sorption contact time on the recovery of organic solutes from surface soils. Extended abstract in the Proceedings of the 226th National Meeting of the American Chemical Society - Physicochemical Processes in Environmental Systems: A Symposium in Honor of Professor Walter J. Weber, Jr., New York, NY, Sep 7-11,Vol. 43, No. 2, 2003.",
+    "Research Interests Surface and Storm Water Quality Drinking Water Quality Low Impact Development Water Reclamation Decentralized Wastewater Treatment Resource Recovery Soil Quality and Remediation Undergradute Research Engineering Education"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c674"
+  },
+  "name": "Felipe J. Perez",
+  "title_dept": "Professor of Structural Engineering, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/fperez/",
+  "email": "fperez@cpp.edu",
+  "phone_number": "909.869.2633",
+  "office_location": "17-2659",
+  "office_hours": "M T TH | 11:00 AM - 12:00 PMW | 9:30 AM - 10:30 AM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Ph.D., Civil Engineering (Structural Engineering), Department of Civil and Environmental Engineering, Lehigh University, Bethlehem, PA, May 2004. M.S., Civil Engineering (Structural Engineering), Department of Civil and Environmental Engineering, Lehigh University, Bethlehem, PA, May 2004. B.S., Civil Engineering, California State University, Northridge, CA, May 1996 P.E., Registered Professional Civil Engineer in the State of California",
+    "Teaching",
+    "Undergraduate Courses Statics Structural Analysis I Structural Analysis II Structural Analysis II Laboratory Design of Steel Structures Design of Reinforced Concrete Structures Senior Project Special Topics Graduate Courses Advanced Design of Reinforced Concrete Structures Prestressed Concrete Design M.S. Project",
+    "Honors and Awards",
+    "Recognition of Appreciation Award, Broncos' Intercollegiate Athletics Program, Cal Poly Pomona 2022-23 Academic Advisor of the Year, Civil Engineering, 2021-2022 Professor of the Year, Civil Engineering, 2018-2019 Nominated for Provost's Award for Excellence in Teaching , Cal Poly Pomona 2018 Innovation in Teaching Award, College of Engineering, Cal Poly Pomona 2012 Outstanding Faculty Award, Broncos’ Intercollegiate Athletics Program, Cal Poly Pomona 2011 Chi Epsilon’s James M. Robbins Pacific District Excellence in Teaching Award 2011 Best New Professor Award, ASCE Student Chapter, Cal Poly Pomona 2009 Tau Beta Pi General Electric Fund Fellow Alfred P. Sloan Foundation Fellow NASA Fellow through the Undergraduate Student Researchers Program",
+    "Selected Publications",
+    "Perez, F.J., Nguyen, D.V., and Mora, O.E., \"Vision-Based Calibration Study for Structural Displacement Measurement,\" Proceedings for the 1st Cal Poly Pomona Civil Engineering Conference, Sept. 12, 2022. Perez, F.J. and Mora O.E., \"A Vision-Based System for Structural Displacement Measurement,\" Proceedings, 7th World Congress on Civil, Structural, and Environmental Engineering (CSEE'22) Virtual Conference, April 10-12, 2022. Perez, F.J., Salem, Y.S., Myers, B.J., Aguilar, C., Jones, G., Ginocchio, D., Medina, E., and Chin, K., “Seismic Vulnerability Assessment of a Non-Ductile Reinforced Concrete Shear Wall Building,” Accepted for Proceedings in American Society for Engineering Education, Apr. 2018. Salem, Y.S. and Perez, F.J., “Seismic Retrofit of Non-Ductile Reinforced Concrete Dual Frame Building using Fiber Composite Jacketing,” Accepted for Proceedings in American Society for Engineering Education, Apr. 2018. Perez, F.J. and Mauricio, O., “Verification of a Simple Model for the Lateral Load Analysis and Design of Unbonded Post-Tensioned Precast Concrete Walls,” Approved for publication, PCI Journal, Precast-Prestressed Concrete Institute, Oct. 2018 edition. Alvarez-Sanchez, R., Vega, M., Restrepo, J.I., and Perez, F.J., “Virtual Hybrid Simulation in an OpenSees/Abaqus Platform for a Parking Structure in Mexicali, B.C.” Spanish article in Proceedings, The XXI National Congress of Seismic Engineering, Guadalajara, Jal. Mex., Sept. 2017. Perez, F. J., Pessiki, S., and Sause, R., “Experimental Lateral Load Response of Unbonded Post-Tensioned Precast Concrete Walls,” ACI Structural Journal, American Concrete Institute, Nov.-Dec. 2013 issue, Vol. 110, No.6. Perez, F. J., Sause, R., and Pessiki, S., “Analytical and Experimental Lateral Load Behavior of Unbonded Post-Tensioned Precast Concrete Walls,” Precast/Prestressed Concrete Institute, 2013 PCI Convention and National Bridge Conference Proceedings. Perez, F. J., Sause, R., and Pessiki, S., “Analytical and Experimental Lateral Load Behavior of Unbonded Post-Tensioned Precast Concrete Walls,” ASCE Journal of Structural Engineering, Special Issue: Precast-Prestressed Concrete Structures under Natural and Human-Made Hazards, Vol. 133, No. 11, Nov. 2007. Perez, F. J., Pessiki, S., and Sause, R., “Lateral Load Behavior of Unbonded Post-Tensioned Precast Walls with Vertical Joints,” PCI Journal, Precast/Prestressed ConcreteInstitute, Mar.-Apr. 2004. Perez, F. J., Pessiki, S., and Sause, R., “Seismic Design of Unbonded Post-TensionedPrecast Walls with Vertical Joint Connectors,” PCI Journal, Precast/Prestressed ConcreteInstitute, Jan.-Feb. 2004. Perez, F. J., Pessiki, S., Sause, R., and Lu, L.-W., “Lateral Load Tests of Unbonded Post-Tensioned Precast Concrete Walls,” ACI Special Publication on Large-Scale StructuralTesting, presented at ACI Spring 2003 Convention, Vancouver, B.C., Canada, Apr. 2003. Perez, F. J., Sause, R., Pessiki, S., and Lu, L.-W., “Lateral Load Behavior of UnbondedPost-Tensioned Precast Concrete Walls,” Proceedings, International Conference onAdvances in Building Technology, Hong Kong, China, Dec. 2002.",
+    "Professional Affiliations ASCE - American Society of Civil Engineers ACI - American Concrete Institute AISC - American Institute of Steel Construction EERI - Earthquake Engineering Research Institute SEAOSC - Structural Engineers Association of Southern California (Former Secretary, Seismology Committee)"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c675"
+  },
+  "name": "Seema C Shah-Fairbank",
+  "title_dept": "Associate Professor and Faculty Fellow for Program Review , Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/shahfairbank/",
+  "email": "shahfairbank@cpp.edu",
+  "phone_number": "909.869.3954",
+  "office_location": "2682",
+  "office_hours": "M | 1:00 PM TO 1:50 PMT TH | 1:30 TO 3:00 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Register Professional Civil Engineer, CaliforniaPh.D. Civil Engineering Colorado State University, Fort Collins, 2009 M.S. Civil Engineering Colorado State University, Fort Collins, 2006B.S. Environmental Engineering California Polytechnic State University, San Luis Obispo 2001",
+    "Teaching",
+    "Undergraduate CoursesIntroduction to Civil EngineeringTechnical CommunicationEngineering HydraulicsEngineering Hydraulics LaboratoryEnvironmental Resource Management Environmental Resource Management LaboratoryWater ResourcesEngineering HydrologyRiver MechanicsGraduate CourseAppied HydrologyRiver Mechanics",
+    "Publications",
+    "Select Publications Shah-Fairbank, S.C. and J. J. Castaneda (2020). “Hydrologic Analysis using Civil Design vs HEC-HMS on Horsethief Creek Canyon Wash, California.” Journal of Hydrogeology & Hydrologic Engineering. Shah-Fairbank, S.C. and P.Y. Julien (2015). “Total Sediment Load Calculations from Point Measurements.” International Journal of Sediment Research. Shah-Fairbank, S.C., P. Y. Julien and D.C. Baird (2011).\" Total Sediment Load from SEMEP using Depth-Integrated Concentration Measurements.\" Journal of Hydraulic Engineering. Select Conference Publications Shah-Fairbank, S. C., & Hottinger, P. R., & Haren, S. (April 2020l), Engaging Students in Evaluation of Engineering Situation through Information Literacy Paper presented at Proceedings of the 2020 ASEE PSW Section Conference, canceled, Davis, California. https://peer.asee.org/36030 Shah-Fairbank, S. C., Omar E. Mora and Kaylee M. Rodrigues (April 2018). P Physical Topographic Development Using Aerial Imagery for Remote Site Modeling, UESI 2018 Surveying & Geomatics Conference, Pomona, CA. Shah-Fairbank, S. C., and Kevin F. Hernandez (June 2018). Physical Hydrological Modeling of Bell Canyon for Education, Outreach and Research 2018 World Environmental & Water Resources Congress, Minneapolis, MN. Shah-Fairbank, S.C. and Larisa Preiser-Houy (February 2018). Engaging Faculty across Disciplines in Evidence-Based Assessment through Institutional Level Rubric Design from General Education to the Major AAC&U 2018 GENERAL EDUCATION AND ASSESSMENT Foundations for Democracy, Philadelphia, PA. Shah-Fairbank, S. C., S. Gibson and John Shelley (May 2017). BSTEM Modeling of Jameson Cutoff in HEC-RAS 2017 World Environmental & Water Resources Congress, Sacramento, CA. Shah-Fairbank, S. C. and K. Lamb. (April 2017) Comparison of Traditional, Hybrid and Flipped Classroom for Water Resources Design Courses. 2017 ASEE Pacific Southwest Section Meeting, Tempe, CA. Hernandez, K. and S. Shah-Fairbank (December 2016). Comparing the Hydrologic and Watershed Processes between a Full Scale Stochastic Model versus a Scaled Physical Model of Bell Canyon. Poster session presented at the American Geophysical Union Fall Meeting, San Francisco, CA. Shah-Fairbank, S.C. (June 2014). Regional Sediment Management: Devils Gate Dam, American WaterWorks Association 2014 Whole Water Conference, Monterey,CA. Smith, S., P. Hsia, and S. Shah-Fairbank. (2013) “San Dimas Experimental Watershed Modeling Project.” World Environmental and Water Resources Congress 2013, pp. 2586-2592.",
+    "Research Area Teaching PedagogyAssessment of Student Learning Sediment TransportRiver MechanicsStormwater ManagementFlood ControlHydrology/Surface Water"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c676"
+  },
+  "name": "Ali Shafiee",
+  "title_dept": "Assistant Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/ashafiee/",
+  "email": "ashafiee@cpp.edu",
+  "phone_number": "909.869.2506",
+  "office_location": "9-246A",
+  "office_hours": "T TH | 1:30-2:30PMT TH | 4:30-5:30PMT TH | 7:00-8:00PM",
+  "website_text": [
+    "Courses Taught",
+    "Geotechnical Engineering Geotechnical Earthquake Engineering Advanced Foundation Engineering Earth Retaining Structures Advanced Soil Mechanics II Slope Stability and Earth Dams",
+    "Education",
+    "Ph.D. Geotechnical Engineering, UCLA MS, Soil Mechanics and Foundation Engineering, University of Tehran BS, Civil Engineering, Shiraz University",
+    "Selected Publications",
+    "Google Scholar: https://scholar.google.com/citations?user=ViU5ePEAAAAJ&hl=en Research Gate: https://www.researchgate.net/profile/Ali_Shafiee7 Shafiee, A., R Dabiri and F Askari (2017). “Dynamic Properties of Firoozkooh Sand-Silt Mixtures” Journal of Seismology & Earthquake Engineering (JSEE), 19(4), 273-284. Yniesta, S., Brandenberg, S.J. and Shafiee, A. (2017). “ARCS: A one dimensional nonlinear soil model for ground response analysis.” Soil Dynamics and Earthquake Engineering. 102, 75-85. Shafiee, A., JP Stewart, R Venugopal and SJ Brandenberg (2017). “Adaption of broadband simple shear device for constant volume and stress-controlled testing,” Geotechnical Testing Journal, 40(1), 15-28 Shafiee, A, JP Stewart, and SJ Brandenberg (2014). “Reset of secondary compression clock for peat by cyclic straining,” ASCE Journal of Geotechnical and Geoenvironmental Engineering, 141 (3), 02815001. Shafiee, A, SJ Brandenberg, and JP Stewart (2013). “Laboratory investigation of the pre- and post-cyclic volume change properties of Sherman Island peat,” Geo-Congress 2013, San Diego. Stewart, JP, SJ Brandenberg, and A Shafiee (2013). \"Laboratory evaluation of seismic failure mechanisms of levees on peat,\" UCLA-SGEL 2013/04, Structural and Geotechnical Engineering Laboratory, Civil & Environmental Engineering Department, UCLA. Shafiee, A, M Kamalian, MK Jafari, and H Hamzehloo (2011). “Ground motion studies for microzonation in Iran,” Natural Hazards, 59(1), 481-505. Shafiee, A, M Bahador, and R Bahrami (2008). “Application of fuzzy set theory to evaluate the effect of pore pressure build-up on the seismic stability of Karkheh embankment dam, Iran,” Journal of Earthquake Engineering, 12(8), 1296-1313. Shafiee, A (2008). “The influence of clay core composition on the seismic stability of embankment dams,” ICE Geotechnical Journal,61(6), 283-290. Shafiee, A (2008). “Permeability of granule-clay mixtures,” Engineering Geology, 97(3-4), 199-208. Shafiee, A, and A Azadi (2007). “Shear-wave velocity characteristics of geologic units throughout Tehran City, Iran. Journal of Asian Earth Sciences, 29, 105-115. Jafari, MK and A Shafiee (2004). “Mechanical behavior of compacted composite clays,” Canadian Geotechnical Journal, 41(6), 1152-1167. Jafari, MK, A Shafiee, and A Razmkhah (2002). “Dynamic properties of fine grained soils in south of Tehran”, JSEE, 4(1), 25-35.",
+    "Research Interests Geotechnical Earthquake Engineering Soil-Structure Interation related to Transportation Systems Mechanical Behavior of Heterogenous Soils Geotechnical Hazards Seismic Microzonation Studies"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c677"
+  },
+  "name": "Ali Sharbat",
+  "title_dept": "Professor, Civil Engineering, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/sharbat/",
+  "email": "sharbat@cpp.edu",
+  "phone_number": "909.869.2175",
+  "office_location": "Building 17, 2671",
+  "office_hours": "M W | 12 PM - 1 PMM | 4:00 PM - 6:00 PM",
+  "website_text": [
+    "Education and Professional Registration",
+    "Degrees Postdoctoral studies, Institute for Energy and the Environment, New Mexico State University (NMSU), Las Cruces, NM Ph.D., Environmental Engineering, University of Nevada Las Vegas (UNLV), Las Vegas, NV M.S., summa cum laude, Civil Engineering, Sharif University of Technology (SUT), Tehran, Iran Professional Licence Professional Engineer (P.E.), Civil, License No. 22428",
+    "Teaching",
+    "Fluid Mechanics Environmental Engineering Environmental Resources Management Lab Water Treatment Engineering Water Treatment Engineering Lab Hydraulic Engineering Hydraulic Engineering Lab Wastewater Treatment Engineering Wastewater Treatment Engineering Lab Solid and Haz. Waste Engineering Advanced Wastewater Treatment Water Reuse and Desalination Research Methods Comprehensive CE Design I, II",
+    "Selected Publications at Cal Poly Pomona",
+    "Farrokh Shad, M., Juby, G., Delagah, S., Sharbatmaleki, M., (2019). Evaluating occurrence of contaminants of emerging concerns in MF/RO treatment of primary effluent for water reuse – Pilot study. In Press, Journal of Water Reuse and Desalination. Shahrestani, H., Moghaddam, H., Delagah, S., Sharbatmaleki, M. (?). Utilization of Local Water Supplies for the City of Los Angeles by Investment in Indirect Potable Water Reuse” Submitted, Journal of Water Science and Technology. Hanrahan, C., Karimi, L., Ghassemi, A., & Sharbat, A. (2016). High-recovery electrodialysis reversal for the desalination of inland brackish waters. Desalination and Water Treatment, 57(24), 11029-11039. Romeyn, T. R., Harijanto, W., Sandoval, S., Delagah, S., & Sharbatmaleki, M. (2016). Contaminants of emerging concern in reverse osmosis brine concentrate from indirect/direct water reuse applications. Water Science and Technology, 73(2), 236-250. Sharbatmaleki, M., Unz, R. F., & Batista, J. R. (2015). Potential mechanisms for bioregeneration of perchlorate-containing ion-exchange resin. Water research, 75, 1-10. Sharbatmaleki, M., (2013). Dynamic Analysis Approach for Decision Making around Expansion of Wastewater Treatment Facilities. Western Decision Sciences Institute (WDSI). Sharbatmaleki, M., Batista, J. R., (2012). Multi-cycle Bioregeneration of Spent Perchlorate-containing Macroporous Selective Anion-exchange Resin.Water Research, Vol. 46 (1), pp 21-32.",
+    "Patents",
+    "US 2014/0102980 A1: Sharbatmaleki, M., Moe, N., “Process and Apparatus for Treating Perchlorate in Drinking Water Supplies”. US 2017/0050868 A1: Sharbatmaleki, M., Michael Lepore, Tiffany Lai, Terrence Gaines, Kalvin Lam, Lucas Townsend, Ik-Hyoun Kim, Natalie La, Deanna Lestina, Christine Zheng, and Yaocihuatl Bourdon; “Photovoltaic Powered Electrodialysis Desalination System”.",
+    "Sponsors for Research and Scholarly Activities",
+    "US Bureau of Reclamation Los Angeles County Flood Control District Southern California Gas Company Metropolitan Water District of Southern California",
+    "Graduate Students",
+    "Travis Romeyn, 2016 Mojtaba Farrokh Shad, 2017 Benson Lim, 2018 Hoda Shahrestani, 2018 Tiffany Tran, 2018 Ilene Ramirez, 2019 Christina Zabalza, 2019 Han Yang, 2019 Victoria Medinilla, 2020 Darian Doyle, 2023 (expected)",
+    "Research Interest Water Quality Water Reuse Drinking Water Desalination Stormwater Quality Stormwater Management Membrane Technologies Reverse Osmosis Electrodialysis Ion-Exchange"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c678"
+  },
+  "name": "Rosa M. Vasconez",
+  "title_dept": "Associate Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/rvasconez/",
+  "email": "rvasconez@cpp.edu",
+  "phone_number": "909.869.2508",
+  "office_location": "Building 17, 2679",
+  "office_hours": "M | 10 AM - 11 AMM | 2:30 - 3:30PMW | 2:30 - 3:00 PMF | 10:00-11:30 AM",
+  "website_text": [
+    "Education",
+    "Ph.D. Civil Engineering, The University of Michigan, Ann Arbor, MI M.S. Civil Engineering, The University of Michigan, Ann Arbor, MI B.S. The University of the Andes, Venezuela",
+    "Licenses",
+    "P.E. Licensed Professional Engineer LEED AP Leadership in Energy and Environmental Design Accredited Professional",
+    "Teaching",
+    "Reinforced Concrete structures Analysis and Design Advanced Reinforced Concrete Analysis and Design Steel Structures Analysis and Design Timber Structures Analysis and Design Prestressed Concrete Structures Analysis and Design Civil Engineering Materials Sustainability in Buildings",
+    "Selected Publications",
+    "Najm, H., and Vasconez, R., “Assessment of AASHTO LRFD Guidelines for Analysis of Regular Bridges Subjected to Transverse Earthquake Ground Motions”, Bridge Structures, vol. 11, no. 1,2, pp. 3-18, 2015 Zhou, Z., Najm, H. and Vasconez, R, “Effectiveness of Tuned Mass Dampers in Mitigating Earthquake Ground Motions in Low and Medium Rise Buildings”, Journal of Engineering and Architecture, December 2016, Vol. 4, No. 2, pp. 11-27 Rokhgar, N., Vasconez, R., and Najm, H., ‘Effect of Cracking and Wall Openings on Shear Wall Stiffness in Medium-Rise Buildings Subjected to Seismic Loads’, Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Los Angeles, CA, June 25-29, 2018. ID 1460 Shehdeh, G., Najm, H., and Vasconez, R., “Experimental Study of Concrete Made with Granite and Iron Powders as Partial Replacement of Sand”, Sustainable Materials and Technologies, 9 (2016)1-9",
+    "Research Interests My research interests are Seismic Design of Bridges, Seismic Analysisis of Structural Walls, Protective (Blast) Engineering, Earthquake Engineering, Structural Retrofitting, High-Performance Fiber Reinforced Concrete, Sustainable Concrete, Sustainable Civil Engineering Materials, Sustainable Built Environments and Engineering Education. Visit my linkedin for more information about my work: Linkedin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c679"
+  },
+  "name": "Jeyoung Woo",
+  "title_dept": "Assistant Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/jwoo/",
+  "email": "jwoo@cpp.edu",
+  "phone_number": "(909) 869-2471",
+  "office_location": "9-310",
+  "office_hours": "T TH | 2:00 PM - 3:00 PM",
+  "website_text": [
+    "Education",
+    "Ph.D. Civil Engineering (Construction Engineering and Project Management), Department of Civil, Architectural and Environmental Engineering, The University of Texas at Austin, 2018M.S. Civil Engineering (Construction Engineering and Project Management), Department of Civil, Architectural and Environmental Engineering, The University of Texas at Austin, 2012B.S. Architectural Engineering, Division of Construction and Transportation Engineering, Hanyang University (Ansan, South Korea), 2003",
+    "Professional Registrations",
+    "Registered Professional Engineer (P.E.) in Texas Registered Professional Engineer (P.E.) in South Korea Project Management Professional (P.M.P.)",
+    "Committee/Membership",
+    "American Society of Civil Engineers (ASCE), Member (2010 - Present) Association for the Advancement of Cost Engineering (AACE) International, Member (2014 - Present) National Society of Professional Engineers (NSPE), Member (2018 - Present) Korean-American Scientists and Engineers (KSEA), Member (2010 - Present) Korean Professional Engineers Association (KPEA), Member (2008 - Present) Project Management Institute (PMI), Member (2005 - Present)",
+    "Previous Appointments",
+    "Lecturer, Department of Civil Engineering, Ohio University (Athens, OH), 2018-2019 Research Assistant/Instructor/Teaching Assistant, Department of Civil, Architectural and Environmental Engineering, The University of Texas at Austin (Austin, TX), 2014-2018 Corporate Quality Assistant Manager, Samsung C&T Corporation (Seoul, South Korea), 2012-2013 Design Engineer Intern, SBTA Inc. (Austin, TX), 2011 Project Manager, Hanah Construction (Suwon, South Korea), 2009-2010 Project Coordinator/Estimator, Dongbu Construction (Seoul, South Korea), 2005-2009 Field Engineer, Woonam Construction (Suwon, South Korea), 2003-2005",
+    "Research Interests Engineering Design Quality Construction Labor Productivity Construction Sustainability Construction Safety Text Mining Total Quality Management (TQM) Innovative Construction Methods"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66423ab54d9c51c90f28c67a"
+  },
+  "name": "Yongping Zhang",
+  "title_dept": "Associate Professor, Civil Engineering Department, College of Engineering",
+  "website": "https://www.cpp.edu/faculty/yongpingz/",
+  "email": "yongpingz@cpp.edu",
+  "phone_number": "909.869.2632",
+  "office_location": "17-2684",
+  "office_hours": "M W | 3PM-4PM",
+  "website_text": [
+    "Education",
+    "Ph.D., Civil Engineering, University of Illinois at Chicago, 2008 M.S., Traffic Engineering, Tongji University, 2004 B.S., Civil Engineering (Transportation), Tongji University, 2001",
+    "Professional Registration",
+    "Licensed Professional Engineer (Civil Engineering)",
+    "Professional Activities",
+    "4/2019—present, Research Coordinator, Committee on Transportation Planning Analysis and Application (AEP15), the Transportation Research Board of the National Academies 2/2021—present, Member, NCHRP Project Panel on Snapshots of Planning Practices, the Transportation Research Board of the National Academies 8/2011—4/2021, Member, Task Force on Understanding New Directions for the National Household Travel Survey (ABJ45T), the Transportation Research Board of the National Academies 9/2021—present, President, International Chinese Transportation Professionals Association—Southern California Chapter (ICTPA-SCC)",
+    "Professional Experience",
+    "Senior Transportation Modeler, Southern California Association of Governments, Los Angeles, CA, 2009–2015 Senior Transportation Analyst, Wilbur Smith Associates, Lisle/Chicago, IL, 2007-2009 Assistant Transportation Planner, Atkins (China) Consultants, Shenzhen, China, 2004",
+    "Courses Taught Undergraduate Level: CE2021 Infrastructure Economics and Public Policy CE3601 Transportation Engineering Lecture CE3601L Transportation Engineering Lab CE4640 Transportation Planning and Management EGR4810/4820/4830 Senior Project Graduate Level: CE5640 Transportation Planning and Management"
+  ]
+}]
