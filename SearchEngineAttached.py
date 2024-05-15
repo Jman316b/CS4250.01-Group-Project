@@ -45,6 +45,15 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
         self.searchResult.linkActivated.connect(self.openLink)
     
     def searchBtnClicked(self):
+        for btn in [self.btn1, self.btn2, self.btn3, self.btn4, self.btn5]:
+            btn.setStyleSheet("font-size: 18pt;\n"
+                                "border-style: solid;\n"
+                                "border-width: 1px;\n"
+                                "border-color: black;\n"
+                                "border-radius: 5px;\n"
+                                "background-color: rgb(255, 255, 255);\n"
+                                "color: rgb(0, 85, 0);")
+                                
         text = self.searchBox.text()
         query = []
         query.append(text)
@@ -62,9 +71,10 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
             profName = self.profName[index]
             profEmail = self.profEmail[index]
             
-            search_result_html += f'Name: {profName}<br>'
-            search_result_html += f'Email: {profEmail}, Website: </p>'
+            search_result_html += f'<strong>Name:</strong> {profName}<br>'
+            search_result_html += f'<strong>Email:</strong> {profEmail}, <strong>Website:</strong> </p>'
             search_result_html += f'<a href="{website}">{website}</a><br><br>'
+
         
         self.searchResult.setText(search_result_html)
         self.widget.show()
@@ -86,9 +96,10 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
             profName = self.profName[index]
             profEmail = self.profEmail[index]
             
-            search_result_html += f'Name: {profName}<br>'
-            search_result_html += f'Email: {profEmail}, Website: </p>'
+            search_result_html += f'<strong>Name:</strong> {profName}<br>'
+            search_result_html += f'<strong>Email:</strong> {profEmail}, <strong>Website:</strong> </p>'
             search_result_html += f'<a href="{website}">{website}</a><br><br>'
+
         
         self.searchResult.setText(search_result_html)
 

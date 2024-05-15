@@ -129,7 +129,7 @@ border-radius: 25px;</string>
          <property name="font">
           <font>
            <family>Times New Roman</family>
-           <pointsize>22</pointsize>
+           <pointsize>18</pointsize>
           </font>
          </property>
          <property name="text">
