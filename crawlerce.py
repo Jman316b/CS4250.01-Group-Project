@@ -149,30 +149,25 @@ def main():
     # Seed URL to find the start URL
     seed_url = "https://www.cpp.edu/engineering/ce/index.shtml"
     seed_html = retrieve_html(seed_url)
-    if seed_html:
-        start_url = parse_start_url(seed_html, seed_url)
-        if start_url:
-            print("Start URL:", start_url)
-            frontier = Frontier()
-            frontier.add_url(start_url)
-            professor_info = {}  # Accumulate professor information here
+    start_url = parse_start_url(seed_html, seed_url)
+    print("Start URL:", start_url)
+    frontier = Frontier()
+    frontier.add_url(start_url)
+    professor_info = {}  # Accumulate professor information here
 
-            # Start the crawler that adds professors + their websites to the dictionary
-            while not frontier.done():
-                url = frontier.next_url()
-                html = retrieve_html(url)
-                if html:
-                    parsed_info = parse_professors(html, start_url)
-                    professor_info.update(parsed_info)  # Update the accumulated professor info
-                    for info in parsed_info.values():
-                        frontier.add_url(info)
-            
-            # Crawl each professor website from the dictionary to get all relevant info.
-            crawl_professor_websites(professor_info, collection_pages)
-        else:
-            print("Start URL not found in seed HTML.")
-    else:
-        print("Failed to retrieve seed HTML.")
+    # Start the crawler that adds professors + their websites to the dictionary
+    while not frontier.done():
+        url = frontier.next_url()
+        html = retrieve_html(url)
+        if html:
+            parsed_info = parse_professors(html, start_url)
+            # Update the accumulated professor info
+            professor_info.update(parsed_info)
+            for info in parsed_info.values():
+                frontier.add_url(info)
+    
+    # Crawl each professor website from the dictionary to get all relevant info.
+    crawl_professor_websites(professor_info, collection_pages)
 
 
 if __name__ == "__main__":
