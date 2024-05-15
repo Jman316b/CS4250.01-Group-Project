@@ -82,7 +82,7 @@ class Ui_MainWindow(object):
         self.searchResult.setSizePolicy(sizePolicy)
         font = QtGui.QFont()
         font.setFamily("Times New Roman")
-        font.setPointSize(22)
+        font.setPointSize(18)
         self.searchResult.setFont(font)
         self.searchResult.setText("")
         self.searchResult.setAlignment(QtCore.Qt.AlignHCenter|QtCore.Qt.AlignTop)

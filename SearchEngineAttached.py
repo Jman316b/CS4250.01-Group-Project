@@ -17,11 +17,15 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
         
         self.documents = []
         self.websites = []
+        self.profName = []
+        self.profEmail = []
         for prof in self.collection_pages.find():
             # Convert the text array to a single string and add it as a document
             self.documents.append(" ".join(prof.get("website_text")))
             self.websites.append(prof.get("website"))
-        
+            self.profName.append(prof.get("name"))
+            self.profEmail.append(prof.get("email"))
+
         # Instantiate the vectorizer object
         self.tfidfvectorizer = TfidfVectorizer(analyzer='word', stop_words='english')
         self.document_v = self.tfidfvectorizer.fit_transform(self.documents)
@@ -55,7 +59,12 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
         search_result_html = ""
         for index, value in self.sorted_list_with_index[:5]:
             website = self.websites[index]
-            search_result_html += f'<a href="{website}">{website}</a><br>'
+            profName = self.profName[index]
+            profEmail = self.profEmail[index]
+            
+            search_result_html += f'Name: {profName}<br>'
+            search_result_html += f'Email: {profEmail}, Website: </p>'
+            search_result_html += f'<a href="{website}">{website}</a><br><br>'
         
         self.searchResult.setText(search_result_html)
         self.widget.show()
@@ -74,7 +83,12 @@ class SearchEngineAttached(Ui_MainWindow, QMainWindow):
 
         for index, value in self.sorted_list_with_index[start_index:end_index]:
             website = self.websites[index]
-            search_result_html += f'<a href="{website}">{website}</a><br>'
+            profName = self.profName[index]
+            profEmail = self.profEmail[index]
+            
+            search_result_html += f'Name: {profName}<br>'
+            search_result_html += f'Email: {profEmail}, Website: </p>'
+            search_result_html += f'<a href="{website}">{website}</a><br><br>'
         
         self.searchResult.setText(search_result_html)
 
